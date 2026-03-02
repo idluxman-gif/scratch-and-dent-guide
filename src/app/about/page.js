@@ -3,7 +3,7 @@ import PageNav from "@/components/PageNav";
 
 export const metadata = {
   title: "About Scratch & Dent Guide | Our Mission",
-  description: "Learn how ScratchAndDentGuide.com helps shoppers find 437+ verified scratch and dent appliance stores across 33 states. Free directory, no sign-up required.",
+  description: "Learn how ScratchAndDentGuide.com helps shoppers find 529+ verified scratch and dent appliance stores across 35 states. Free directory, no sign-up required.",
 };
 
 export default function AboutPage() {
@@ -23,7 +23,7 @@ export default function AboutPage() {
           <p>That&rsquo;s where Scratch &amp; Dent Guide comes in.</p>
 
           <h2 style={{fontSize:22,fontWeight:800,color:"#0F172A",margin:"32px 0 12px"}}>What We Do</h2>
-          <p>ScratchAndDentGuide.com is a free, searchable directory of <strong>437+ verified scratch and dent appliance stores across 33 US states.</strong> We built this site for one reason: to make it easy for everyday shoppers to find nearby stores that sell discounted appliances &mdash; without spending hours searching Google, calling around, or driving to stores that turned out to be something else entirely.</p>
+          <p>ScratchAndDentGuide.com is a free, searchable directory of <strong>529+ verified scratch and dent appliance stores across 35 US states.</strong> We built this site for one reason: to make it easy for everyday shoppers to find nearby stores that sell discounted appliances &mdash; without spending hours searching Google, calling around, or driving to stores that turned out to be something else entirely.</p>
           <p>Every listing in our directory includes the store name, address, phone number, customer ratings, and a link to the store&rsquo;s location on Google Maps. You can search by state, city, or zip code, and filter by the type of store you&rsquo;re looking for.</p>
           <p>It&rsquo;s all free. No sign-ups, no paywalls, no catches.</p>
 
@@ -33,7 +33,7 @@ export default function AboutPage() {
 
           <h2 style={{fontSize:22,fontWeight:800,color:"#0F172A",margin:"32px 0 12px"}}>By the Numbers</h2>
           <div style={{display:"grid",gridTemplateColumns:"repeat(2,1fr)",gap:12,margin:"16px 0"}}>
-            {[["437+","Verified store listings"],["33","US states covered"],["100%","Free to use"],["0","Sponsored or paid listings"]].map(([n,l])=>(
+            {[["529+","Verified store listings"],["35","US states covered"],["100%","Free to use"],["0","Sponsored or paid listings"]].map(([n,l])=>(
               <div key={l} style={{background:"#fff",border:"1px solid #E2E8F0",borderRadius:10,padding:16,textAlign:"center"}}>
                 <div style={{fontSize:24,fontWeight:900,color:"#0F172A"}}>{n}</div>
                 <div style={{fontSize:12,color:"#64748B"}}>{l}</div>
