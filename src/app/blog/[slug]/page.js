@@ -88,7 +88,7 @@ export default function BlogArticlePage({ params }) {
             Find Scratch & Dent Stores Near You
           </h3>
           <p style={{ fontSize: 13, color: "rgba(255,255,255,.5)", margin: "0 0 16px" }}>
-            Browse our directory of 529+ verified stores across 35 states.
+            Browse our directory of 620+ verified stores across 44 states.
           </p>
           <Link href="/" style={{
             display: "inline-block", padding: "12px 28px", background: "#10B981",
