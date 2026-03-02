@@ -47,4 +47,28 @@ export const blogArticles = [
     publishDate: "2026-03-02",
     keywords: "scratch and dent appliance inspection, what to check before buying appliances, how to buy scratch and dent appliances",
   },
+  {
+    slug: "samsung-scratch-and-dent-deals",
+    title: "Samsung Scratch and Dent Deals: Where to Find Discounted Samsung Appliances",
+    metaTitle: "Samsung Scratch and Dent Deals (Save 30-70%)",
+    metaDescription: "Find discounted Samsung appliances at scratch and dent stores near you. Same technology, full warranty, 30-70% off retail. 529+ verified stores across 35 states.",
+    publishDate: "2026-03-02",
+    keywords: "Samsung scratch and dent, discount Samsung appliances, Samsung appliance outlet",
+  },
+  {
+    slug: "lg-scratch-and-dent-deals",
+    title: "LG Scratch and Dent Deals: Where to Find Discounted LG Appliances",
+    metaTitle: "LG Scratch and Dent Deals (Save 30-70%)",
+    metaDescription: "Find discounted LG appliances at scratch and dent stores. InstaView fridges, TurboWash washers, QuadWash dishwashers — 30-70% off. 529+ verified stores listed.",
+    publishDate: "2026-03-02",
+    keywords: "LG scratch and dent, discount LG appliances, LG appliance outlet",
+  },
+  {
+    slug: "whirlpool-scratch-and-dent-deals",
+    title: "Whirlpool Scratch and Dent Deals: Where to Find Discounted Whirlpool Appliances",
+    metaTitle: "Whirlpool Scratch and Dent Deals (Save 30-70%)",
+    metaDescription: "Find discounted Whirlpool, Maytag, KitchenAid & Amana appliances at scratch and dent stores. The most widely available brand means more inventory and better deals.",
+    publishDate: "2026-03-02",
+    keywords: "Whirlpool scratch and dent, discount Whirlpool appliances, Whirlpool appliance outlet",
+  },
 ];
