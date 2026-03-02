@@ -22,6 +22,19 @@ export default function RootLayout({ children }) {
       <head>
         <Script
           async
+          src="https://www.googletagmanager.com/gtag/js?id=G-97K1EQN5XQ"
+          strategy="afterInteractive"
+        />
+        <Script id="ga4-init" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-97K1EQN5XQ');
+          `}
+        </Script>
+        <Script
+          async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6583010255692976"
           crossOrigin="anonymous"
           strategy="afterInteractive"
