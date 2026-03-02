@@ -68,7 +68,7 @@ return(<div style={{minHeight:"100vh",background:"#F9FAFB",fontFamily:"'DM Sans'
 <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800;900&display=swap" rel="stylesheet"/>
 <nav style={{background:"#0F172A",padding:"10px 20px",display:"flex",justifyContent:"space-between",alignItems:"center",position:"sticky",top:0,zIndex:100}}>
 <div style={{cursor:"pointer"}} onClick={clr}><span style={{fontSize:15,fontWeight:800,color:"#fff"}}>🏷️ Scratch<span style={{color:"#10B981"}}>&</span>Dent<span style={{color:"#94A3B8",fontWeight:400}}>Guide</span></span></div>
-<div style={{display:"flex",gap:14,fontSize:12}}><a href="#" onClick={e=>{e.preventDefault();rr.current?.scrollIntoView({behavior:"smooth"});}} style={{color:"rgba(255,255,255,.6)",textDecoration:"none"}}>Browse</a><a href="#about" style={{color:"rgba(255,255,255,.6)",textDecoration:"none"}}>About</a></div>
+<div style={{display:"flex",gap:14,fontSize:12}}><a href="#" onClick={e=>{e.preventDefault();rr.current?.scrollIntoView({behavior:"smooth"});}} style={{color:"rgba(255,255,255,.6)",textDecoration:"none"}}>Browse</a><a href="/blog" style={{color:"rgba(255,255,255,.6)",textDecoration:"none"}}>Blog</a><a href="#about" style={{color:"rgba(255,255,255,.6)",textDecoration:"none"}}>About</a></div>
 </nav>
 
 <div style={{background:"linear-gradient(160deg,#0F172A,#1E293B 50%,#334155)",padding:"55px 20px 44px",textAlign:"center",position:"relative"}}>
@@ -123,6 +123,31 @@ return(<div style={{minHeight:"100vh",background:"#F9FAFB",fontFamily:"'DM Sans'
 <h2 style={{fontSize:18,fontWeight:800,color:"#0F172A",marginBottom:8}}>What Are Scratch & Dent Appliances?</h2>
 <p style={{fontSize:13,color:"#475569",lineHeight:1.7}}>Brand-new appliances from Samsung, LG, Whirlpool, GE, and Bosch with minor cosmetic imperfections sold at 30-70% off retail. Fully functional, often with manufacturer warranties. Our directory helps you find the best deals near you.</p>
 </div>
+
+<div style={{padding:"36px 20px",background:"#fff",borderTop:"1px solid #E5E7EB"}}>
+<div style={{maxWidth:780,margin:"0 auto"}}>
+<div style={{textAlign:"center",marginBottom:20}}>
+<h2 style={{fontSize:20,fontWeight:800,color:"#0F172A",margin:"0 0 4px"}}>Latest Articles</h2>
+<p style={{fontSize:13,color:"#64748B",margin:0}}>Tips and guides to help you save on appliances</p>
+</div>
+<div style={{display:"grid",gridTemplateColumns:"repeat(auto-fit,minmax(230px,1fr))",gap:14}}>
+{[
+{slug:"are-scratch-and-dent-appliances-worth-it",title:"Are Scratch and Dent Appliances Worth It?",desc:"Everything you need to know before buying a cosmetically imperfect appliance at a steep discount.",date:"Mar 2, 2026"},
+{slug:"how-to-save-on-refrigerators-washers-dryers",title:"How to Save 30-70% on Refrigerators, Washers & Dryers",desc:"Proven strategies for finding the best deals on major home appliances.",date:"Mar 2, 2026"},
+{slug:"scratch-and-dent-vs-open-box-vs-refurbished",title:"Scratch and Dent vs. Open Box vs. Refurbished",desc:"Understanding the key differences so you can shop smarter.",date:"Mar 2, 2026"},
+].map(a=><a key={a.slug} href={"/blog/"+a.slug} style={{textDecoration:"none",color:"inherit",background:"#F9FAFB",borderRadius:12,border:"1px solid #E5E7EB",padding:18,transition:"all .2s",display:"block"}}
+onMouseEnter={e=>{e.currentTarget.style.borderColor="#10B981";e.currentTarget.style.transform="translateY(-2px)";}}
+onMouseLeave={e=>{e.currentTarget.style.borderColor="#E5E7EB";e.currentTarget.style.transform="none";}}>
+<div style={{fontSize:10,color:"#10B981",fontWeight:600,marginBottom:6}}>{a.date}</div>
+<h3 style={{margin:"0 0 6px",fontSize:14,fontWeight:700,color:"#0F172A",lineHeight:1.3}}>{a.title}</h3>
+<p style={{margin:0,fontSize:12,color:"#64748B",lineHeight:1.5}}>{a.desc}</p>
+<span style={{display:"inline-block",marginTop:8,fontSize:11,fontWeight:600,color:"#10B981"}}>Read article →</span>
+</a>)}
+</div>
+<div style={{textAlign:"center",marginTop:16}}><a href="/blog" style={{fontSize:13,fontWeight:700,color:"#0F172A",textDecoration:"none",padding:"9px 22px",border:"1px solid #E2E8F0",borderRadius:9,display:"inline-block",transition:"all .15s"}}
+onMouseEnter={e=>e.currentTarget.style.borderColor="#10B981"}
+onMouseLeave={e=>e.currentTarget.style.borderColor="#E2E8F0"}>View All Articles →</a></div>
+</div></div>
 
 <footer style={{background:"#0F172A",padding:"24px 20px 16px",color:"rgba(255,255,255,.35)"}}>
 <div style={{maxWidth:700,margin:"0 auto",display:"flex",justifyContent:"space-between",flexWrap:"wrap",gap:16}}>
