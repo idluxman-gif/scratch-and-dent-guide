@@ -111,4 +111,148 @@ export const articleContent = {
 
 <h2>A Few Tips Regardless of What You Buy</h2>
 <p>No matter which category you choose, always inspect the appliance in person before paying. Ask about warranty coverage and get the terms in writing. Confirm the return policy. And research the model number to make sure it has the features, capacity, and dimensions you need.</p>`,
+  "best-time-to-buy-appliances": `<p>Timing matters when you&rsquo;re spending thousands on a refrigerator, washer, dryer, or dishwasher. Buy at the wrong moment and you pay full retail. Buy at the right moment and you can save 20% to 35% &mdash; sometimes more.</p>
+<p>But here&rsquo;s the thing most shopping guides won&rsquo;t tell you: there&rsquo;s a way to get those savings every single day of the year, no calendar-watching required. We&rsquo;ll get to that. First, let&rsquo;s walk through 2026 month by month so you know exactly when the deals land.</p>
+
+<h2>January: Post-Holiday Clearance</h2>
+<p>Retailers are sitting on leftover holiday inventory they need to move. You&rsquo;ll find solid discounts on appliances that didn&rsquo;t sell during Black Friday and the December gift season, plus floor models being rotated out to make room for new stock. January isn&rsquo;t the deepest discount month, but if you missed the holiday rush, it&rsquo;s a good window to catch remaining deals &mdash; especially on ranges and dishwashers.</p>
+
+<h2>February: Presidents&rsquo; Day Sales</h2>
+<p>Presidents&rsquo; Day weekend (mid-February) is one of the biggest appliance sale events of the year. Major retailers run promotions across refrigerators, washers, dryers, dishwashers, and ranges, with typical discounts of 20% to 35%. If you&rsquo;ve been waiting since the new year, this is your first major buying window. Bundle deals &mdash; buying multiple appliances together &mdash; are especially strong during this event.</p>
+
+<h2>March&ndash;April: The Quiet Months</h2>
+<p>These are relatively slow months for appliance sales. Retailers aren&rsquo;t running major promotions, and new model releases haven&rsquo;t started yet. If you need an appliance during this window, negotiating with a salesperson or shopping scratch and dent is your best bet. Don&rsquo;t pay full sticker at a big-box store in March if you can help it.</p>
+
+<h2>May: New Refrigerator Models Arrive</h2>
+<p>May is when major manufacturers release their new refrigerator lines. That&rsquo;s important for two reasons. First, it means last year&rsquo;s refrigerator models get marked down to clear shelf space &mdash; often 15% to 30% off. Second, Memorial Day weekend falls in late May and brings one of the year&rsquo;s strongest appliance sales across all categories, not just refrigerators. If you&rsquo;re in the market for a fridge, May is arguably the single best month to buy.</p>
+
+<h2>June&ndash;July: Summer Sales and the Fourth of July</h2>
+<p>June is relatively quiet, but Fourth of July sales events pick up the slack. Many retailers run week-long promotions around Independence Day with discounts comparable to Presidents&rsquo; Day. Summer is also a good time to buy seasonal items like window air conditioners and chest freezers &mdash; demand is high, but retailers compete aggressively on price.</p>
+
+<h2>August: Back-to-School Lull</h2>
+<p>August is another quiet month for appliance deals. Retail attention shifts to back-to-school merchandise, and there aren&rsquo;t major holiday weekends driving promotions. If you&rsquo;re buying in August, focus on negotiating, looking at floor models, or visiting scratch and dent stores.</p>
+
+<h2>September&ndash;October: New Washers, Dryers &amp; Dishwashers Drop</h2>
+<p>This is the big model turnover period for laundry appliances and dishwashers. Manufacturers launch their new lines, and retailers discount the outgoing models to make room. If you&rsquo;re shopping for a washer, dryer, or dishwasher, September and October offer some of the best prices on last year&rsquo;s models &mdash; which are functionally almost identical to the new ones.</p>
+<p>Labor Day weekend in early September is also a major sale event. Expect 20% to 35% off across most appliance categories at big-box retailers. This is one of the top three buying windows of the year alongside Presidents&rsquo; Day and Black Friday.</p>
+
+<h2>November: Black Friday and Cyber Monday</h2>
+<p>No surprise here &mdash; Black Friday weekend delivers the deepest retailer discounts of the year on appliances. Doorbuster deals of 30% to 40% off are common, and some specific models get even steeper cuts. Cyber Monday extends the savings online.</p>
+<p>The competition for the best deals is fierce, though. Popular models sell out fast, and the discounted units sometimes come with limited warranty terms or final-sale conditions. If you&rsquo;re flexible on model and brand, Black Friday is excellent. If you want something specific, shop early in the month when pre-Black Friday sales begin.</p>
+
+<h2>December: End-of-Year Clearance Begins</h2>
+<p>December is a mixed bag. The first half of the month still benefits from Black Friday momentum, but activity slows after mid-December as attention shifts to holiday gifts. Late December and the days between Christmas and New Year&rsquo;s can produce quiet clearance deals as stores close out the year&rsquo;s inventory.</p>
+
+<h2>The Month-by-Month Cheat Sheet</h2>
+<p>To sum it up: the strongest buying windows are February (Presidents&rsquo; Day), May (Memorial Day plus new fridge models), September (Labor Day plus new laundry/dishwasher models), and November (Black Friday). January and December offer post-holiday clearance. March, April, June, and August are the weakest months for sales.</p>
+
+<h2>Why Scratch and Dent Stores Beat the Calendar</h2>
+<p>Here&rsquo;s the part that changes the equation entirely. All of the timing advice above applies to buying at full-service retailers &mdash; the Home Depots, Lowe&rsquo;s, and Best Buys of the world. At those stores, you really do need to wait for sale events to get meaningful discounts.</p>
+<p>Scratch and dent appliance stores operate on a completely different model. They sell brand-new appliances with minor cosmetic imperfections at <strong>30% to 70% off retail &mdash; every day of the year</strong>. No waiting for Presidents&rsquo; Day. No fighting Black Friday crowds. No checking your calendar.</p>
+<p>To put that in perspective: the best big-box holiday sale might save you 20% to 35%. A scratch and dent store offers that as a floor, with savings regularly hitting 50% to 70% on the exact same brands and models.</p>
+<p>The appliances are new, most carry the full manufacturer&rsquo;s warranty, and the only trade-off is a cosmetic blemish that&rsquo;s often invisible once the unit is installed in your kitchen or laundry room. If you haven&rsquo;t explored this option, our <a href="/blog/are-scratch-and-dent-appliances-worth-it">complete guide to scratch and dent appliances</a> breaks down everything you need to know.</p>
+<p>You can browse verified stores near you in our <a href="/">directory of 529+ scratch and dent stores across 35 states</a>.</p>
+
+<h2>Other Year-Round Strategies</h2>
+<p>Beyond scratch and dent, a few other strategies work regardless of the calendar.</p>
+<p><strong>Floor models</strong> become available whenever stores update their showrooms, not just during sales events. Ask any time you visit &mdash; the worst they can say is no.</p>
+<p><strong>Open-box returns</strong> trickle into inventory constantly. Check the open-box or clearance sections at big-box stores every time you visit. For a deeper look at how these compare, see our guide on <a href="/blog/scratch-and-dent-vs-open-box-vs-refurbished">scratch and dent vs. open box vs. refurbished</a>.</p>
+<p><strong>Bundling</strong> works year-round at independent dealers. If you&rsquo;re buying two or more appliances, ask for a package discount. This strategy is especially effective at scratch and dent stores, where margins are already thin and sellers appreciate larger orders. Our guide on <a href="/blog/how-to-save-on-refrigerators-washers-dryers">how to save 30-70% on appliances</a> covers bundling and negotiation tactics in detail.</p>
+
+<h2>The Bottom Line</h2>
+<p>Strategic timing can save you 20% to 35% at traditional retailers. But if you want the deepest savings without watching the calendar, scratch and dent stores are the answer &mdash; 30% to 70% off, any day of the year.</p>
+<p>Find a verified store near you at <a href="/">ScratchAndDentGuide.com</a>.</p>`,
+  "scratch-and-dent-appliances-near-me": `<p>You&rsquo;ve heard that scratch and dent appliances can save you 30% to 70% on brand-new refrigerators, washers, dryers, and more. Now you just need to find a store. The good news is there are more scratch and dent dealers across the country than most people realize &mdash; the challenge is finding the reputable ones and knowing what to look for before you drive across town.</p>
+<p>Here&rsquo;s how to find the best scratch and dent deals in your area, evaluate stores before you visit, and avoid the places that aren&rsquo;t worth your time.</p>
+
+<h2>How to Find Scratch and Dent Stores Near You</h2>
+<p>There are a few good ways to track down local dealers, and using more than one will give you the most complete picture of what&rsquo;s available.</p>
+<p><strong>Use our directory.</strong> We&rsquo;ve built a verified database of 529+ scratch and dent appliance stores across 35 states. Every listing includes the store&rsquo;s address, phone number, and the types of appliances they carry. You can search by state and city to find exactly what&rsquo;s near you. It&rsquo;s the fastest way to get a list of real, verified dealers without sifting through irrelevant results.</p>
+<p>Browse stores in your state: <a href="/stores/texas">Texas</a> &middot; <a href="/stores/california">California</a> &middot; <a href="/stores/florida">Florida</a> &middot; <a href="/stores/georgia">Georgia</a> &middot; <a href="/stores/ohio">Ohio</a> &middot; <a href="/stores/new-york">New York</a> &middot; <a href="/stores/arizona">Arizona</a> &middot; <a href="/stores/michigan">Michigan</a> &middot; <a href="/stores/massachusetts">Massachusetts</a> &middot; <a href="/stores/new-jersey">New Jersey</a> &mdash; or view all states at <a href="/">ScratchAndDentGuide.com</a>.</p>
+<p><strong>Search Google Maps.</strong> Try queries like &ldquo;scratch and dent appliances,&rdquo; &ldquo;discount appliance store,&rdquo; or &ldquo;appliance outlet&rdquo; followed by your city name. Google Maps is useful because you can immediately see ratings, reviews, photos, and hours. Look for stores with at least a 4.0 rating and a reasonable number of reviews.</p>
+<p><strong>Check Yelp and Facebook.</strong> Many independent appliance dealers are active on Yelp and Facebook, where customers leave detailed reviews that can tell you a lot about the shopping experience &mdash; inventory quality, pricing fairness, staff helpfulness, and delivery reliability. Facebook pages often show photos of current inventory, which gives you a preview before visiting.</p>
+
+<h2>What to Look for When Evaluating a Store</h2>
+<p>Not all scratch and dent stores are created equal. Some are well-run operations with clean showrooms, transparent pricing, and solid warranty policies. Others are barely a step above a storage unit full of mystery appliances. Here&rsquo;s how to tell the difference before you commit to a visit.</p>
+<p><strong>Reviews and ratings matter.</strong> A store with dozens of positive reviews mentioning fair prices, honest staff, and good post-sale support is a strong signal. Pay special attention to reviews that mention warranty experiences &mdash; how did the store handle a problem after the sale?</p>
+<p><strong>Look for inventory photos.</strong> Stores that post photos of their current inventory on their website, Google listing, or social media are typically more transparent and organized. If a store has zero online presence and no photos, that&rsquo;s not necessarily a dealbreaker, but proceed with a bit more caution.</p>
+<p><strong>Check their warranty policy.</strong> The best scratch and dent stores clearly state their warranty terms, whether that&rsquo;s passing through the manufacturer&rsquo;s warranty, offering their own store warranty, or some combination. If you can&rsquo;t find warranty information online, that&rsquo;s a question for your phone call before visiting.</p>
+<p><strong>Inventory turnover is a good sign.</strong> Stores that get fresh shipments regularly &mdash; weekly or biweekly &mdash; tend to have better selection and more competitive pricing. A store sitting on the same inventory for months may be overpricing or dealing in less desirable stock.</p>
+<p>If you&rsquo;re new to buying scratch and dent and want to understand the full picture &mdash; what these appliances are, how warranties work, and what kind of savings to expect &mdash; our <a href="/blog/are-scratch-and-dent-appliances-worth-it">complete guide to scratch and dent appliances</a> covers everything.</p>
+
+<h2>Call Ahead: What to Ask Before You Visit</h2>
+<p>A five-minute phone call can save you an hour-long wasted trip. Here&rsquo;s what to ask.</p>
+<p><strong>&ldquo;Do you currently have [appliance type] in stock?&rdquo;</strong> Scratch and dent inventory changes constantly. The washer you saw on their Facebook page yesterday might be gone today. Calling ahead confirms that what you need is actually on the floor.</p>
+<p><strong>&ldquo;What brands do you typically carry?&rdquo;</strong> Some stores specialize in specific brands or get regular shipments from certain manufacturers. If you have a brand preference, this saves time.</p>
+<p><strong>&ldquo;What&rsquo;s your warranty policy?&rdquo;</strong> Get the basics over the phone: Is it the manufacturer&rsquo;s warranty, a store warranty, or no warranty? How long does coverage last? What does it cover?</p>
+<p><strong>&ldquo;Do you offer delivery and installation?&rdquo;</strong> Some stores deliver and install for a fee. Others are pickup only. Knowing this upfront helps you plan logistics &mdash; and a store that offers delivery is often a sign of a more established operation.</p>
+<p><strong>&ldquo;What&rsquo;s your return or exchange policy?&rdquo;</strong> Many scratch and dent stores sell on a final-sale basis. That&rsquo;s standard and not necessarily a red flag, but you should know before you buy so you inspect thoroughly.</p>
+<p><strong>&ldquo;When do you get new inventory?&rdquo;</strong> If they don&rsquo;t have what you need right now, ask when the next shipment arrives. Some stores will even take your number and call when something matching your needs comes in.</p>
+
+<h2>Red Flags to Watch For</h2>
+<p>Most scratch and dent retailers are honest small businesses. But like any industry, there are a few operators to avoid.</p>
+<p><strong>No warranty and no willingness to discuss it.</strong> A store that sells everything &ldquo;as-is&rdquo; and gets evasive when you ask about warranties isn&rsquo;t one where you should drop $1,500 on a refrigerator. Legitimate dealers are upfront about their terms.</p>
+<p><strong>Pressure to buy immediately.</strong> Yes, scratch and dent inventory moves fast &mdash; that part is true. But a salesperson who won&rsquo;t give you five minutes to inspect a unit or look up the model number is prioritizing their commission over your satisfaction.</p>
+<p><strong>Prices that seem too good to be true.</strong> If a two-year-old model is priced at 80% off and has no warranty, there&rsquo;s probably a reason. Extremely low prices can indicate refurbished units being sold as scratch and dent, which is a different product category with different risk levels. Our <a href="/blog/scratch-and-dent-vs-open-box-vs-refurbished">comparison of scratch and dent vs. open box vs. refurbished</a> explains the differences.</p>
+<p><strong>No physical showroom.</strong> Legitimate scratch and dent retailers have a showroom where you can inspect units in person. If someone is selling &ldquo;scratch and dent appliances&rdquo; out of a parking lot or only through online listings with no physical location, be cautious.</p>
+<p><strong>Unwillingness to let you inspect.</strong> You should be able to look at all sides of the appliance, open all doors and drawers, and ideally plug it in or see it demonstrated. A store that discourages inspection is a store to skip.</p>
+
+<h2>Tips for Getting the Best Deal</h2>
+<p>Once you&rsquo;ve found a reputable store, a few strategies will help you maximize your savings.</p>
+<p><strong>Be flexible on brands and colors.</strong> The shopper who insists on a specific model in a specific finish will have a harder time than the one who says, &ldquo;I need a French door fridge between 22 and 26 cubic feet, and I&rsquo;m open on brand.&rdquo; Flexibility is your leverage.</p>
+<p><strong>Visit on weekdays.</strong> Inventory often arrives mid-week, and weekday shoppers face less competition than weekend crowds. Some stores even offer slightly better deals during slow periods.</p>
+<p><strong>Buy multiple appliances together.</strong> If you need a fridge, range, and dishwasher, buying all three from the same store gives you negotiating power. Ask for a bundle discount &mdash; most independent dealers will work with you.</p>
+<p><strong>Bring measurements.</strong> Know the exact dimensions of the space where the appliance will go, including door clearances and hookup locations. Nothing kills a deal faster than buying a unit that doesn&rsquo;t fit. For a full walkthrough of what to check in-store, see our guide on <a href="/blog/how-to-save-on-refrigerators-washers-dryers">how to save 30-70% on appliances</a>.</p>
+
+<h2>Start Your Search</h2>
+<p>The easiest way to find verified scratch and dent stores in your area is our <a href="/">directory at ScratchAndDentGuide.com</a>. We&rsquo;ve done the legwork of identifying and verifying 529+ stores across 35 states so you don&rsquo;t have to guess which Google result is worth your time. Search by state, drill down to your city, and start saving.</p>`,
+  "how-to-inspect-scratch-and-dent-appliances": `<p>Buying a scratch and dent appliance is one of the smartest ways to save money on brand-new refrigerators, washers, dryers, and dishwashers. But unlike buying a sealed box off a shelf, you&rsquo;re purchasing a specific physical unit &mdash; which means inspecting it properly is essential.</p>
+<p>This is your complete in-store checklist. Follow these seven steps before handing over your money, and you&rsquo;ll walk out confident that you&rsquo;re getting a great deal on a fully functional appliance.</p>
+
+<h2>Step 1: Inspect the Exterior &mdash; All Sides, Top, and Back</h2>
+<p>This is the most obvious step, but most shoppers don&rsquo;t do it thoroughly enough. Don&rsquo;t just glance at the front. Walk around the entire unit and examine every surface.</p>
+<p><strong>Check the front panel and door.</strong> This is the most visible surface once installed. Note any scratches, dents, or discoloration. Ask yourself honestly: will this bother me every time I walk into the kitchen?</p>
+<p><strong>Check both side panels.</strong> Side damage is often the best kind &mdash; if your appliance sits between cabinets or against a wall, nobody will ever see it. A significant dent on a hidden side panel is essentially free savings.</p>
+<p><strong>Check the top.</strong> Top damage matters less on a full-size fridge (you&rsquo;ll never see it) but is more visible on a counter-height dishwasher or a front-load washer.</p>
+<p><strong>Pull the unit out and check the back.</strong> Back-panel damage is almost always invisible after installation, but you&rsquo;re also checking for something more important here &mdash; look for any signs of damage to connections, power cords, water hookups, or gas fittings. Cosmetic damage on the back is fine. Damaged connectors or bent hookup ports are a problem.</p>
+<p><strong>Ask the salesperson to point out all known damage.</strong> Reputable stores will disclose every imperfection. If the salesperson can&rsquo;t or won&rsquo;t tell you exactly what&rsquo;s wrong with the unit, treat that as a yellow flag.</p>
+<p>As you inspect, think about where this appliance will live in your home. A scratch on the left side of a fridge that backs up against a wall isn&rsquo;t a scratch at all &mdash; it&rsquo;s invisible savings. For a full breakdown of what scratch and dent actually means and how the pricing works, see our <a href="/blog/are-scratch-and-dent-appliances-worth-it">guide to whether scratch and dent appliances are worth it</a>.</p>
+
+<h2>Step 2: Inspect the Interior</h2>
+<p>Cosmetic damage should be limited to the outside. Interior damage can signal that the unit was dropped, mishandled severely, or has a deeper issue.</p>
+<p>Open all doors and lids. Check interior walls for dents, cracks, or rough spots. Slide every shelf, drawer, and rack in and out &mdash; they should move smoothly without catching. Inspect door gaskets (rubber seals) for tears, warping, or gaps. On front-load washers, check the gasket for mold, which suggests the unit was used rather than just cosmetically damaged. On dishwashers, confirm spray arms spin freely and rack tines aren&rsquo;t broken.</p>
+<p>If you find interior damage, ask for a significant additional discount or walk away. Interior issues can affect performance in ways that cosmetic exterior damage never will.</p>
+
+<h2>Step 3: Functional Testing</h2>
+<p>If the store allows it &mdash; and most reputable ones do &mdash; plug the unit in and test it.</p>
+<p><strong>Power it on.</strong> Make sure the unit starts up without unusual noises, error codes, or flickering displays.</p>
+<p><strong>Test all controls.</strong> Press every button. Turn every knob. Cycle through settings on the digital display. Make sure the interface responds correctly and nothing feels stuck or unresponsive.</p>
+<p><strong>Run a cycle if possible.</strong> On a washer or dishwasher, ask to run a short cycle. On a dryer, let it tumble for a few minutes. Listen for grinding, rattling, or squealing &mdash; none of these sounds are normal on a new unit. For refrigerators, listen for the compressor to kick on &mdash; it should hum smoothly, not click repeatedly or buzz loudly.</p>
+<p>If the store won&rsquo;t let you power the unit on, ask why. Some test units before putting them on the floor and can show you results. Make sure the warranty will cover you if something doesn&rsquo;t work once you get it home.</p>
+
+<h2>Step 4: Check for Missing Parts</h2>
+<p>Missing parts are one of the most commonly overlooked issues. Replacements can be surprisingly expensive and may eat into the savings you thought you were getting.</p>
+<p>Go through the unit with a critical eye: shelves, drawers, door bins, crisper drawers, silverware baskets, leveling feet, anti-tip brackets, hose connections, filter covers, and any stacking or mounting hardware. Compare against the model&rsquo;s spec sheet if you can pull it up on your phone.</p>
+<p>If parts are missing, ask for a further discount to cover the replacement cost. A quick search of the model number on the manufacturer&rsquo;s parts website will tell you exactly what replacements cost, giving you leverage to negotiate.</p>
+
+<h2>Step 5: Verify the Warranty</h2>
+<p>Warranty verification is not optional. It&rsquo;s the difference between a smart purchase and a gamble.</p>
+<p><strong>Ask whether the manufacturer&rsquo;s warranty applies.</strong> Since scratch and dent appliances are new, most carry the full factory warranty. But not always &mdash; some liquidation channels void the manufacturer warranty, and some stores sell units from sources where warranty transfer isn&rsquo;t guaranteed.</p>
+<p><strong>Ask about the store&rsquo;s own warranty.</strong> Many independent dealers offer their own warranty (30 days, 90 days, or longer) that covers functional defects. This can supplement or replace the manufacturer warranty.</p>
+<p><strong>Get the terms in writing.</strong> A verbal promise means nothing if the compressor fails in six months. Ask for a printed warranty card, a receipt with warranty terms noted, or a written store policy.</p>
+<p><strong>Confirm what&rsquo;s covered.</strong> Warranties typically cover mechanical and electrical failures, not cosmetic damage (which you already accepted when you bought at a discount). Make sure you understand the claims process &mdash; who do you call, and what&rsquo;s the turnaround time?</p>
+<p>For a more detailed comparison of how warranties differ across scratch and dent, open-box, and refurbished appliances, check out our <a href="/blog/scratch-and-dent-vs-open-box-vs-refurbished">comparison guide</a>.</p>
+
+<h2>Step 6: Research the Model Number</h2>
+<p>Before you pay, pull out your phone and spend two minutes on research. Write down or photograph the model number (usually on a sticker inside the door, on the back panel, or behind the kickplate) and look it up.</p>
+<p><strong>Confirm the specs.</strong> Make sure the capacity, dimensions, features, and energy rating match what you need. A great price on a fridge that&rsquo;s two inches too wide for your kitchen isn&rsquo;t a great price at all.</p>
+<p><strong>Check the retail price.</strong> Look up what this model sells for new at Home Depot, Lowe&rsquo;s, or the manufacturer&rsquo;s website. This tells you whether the scratch and dent price is actually a good deal. Most of the time it will be &mdash; but occasionally stores overprice certain models, especially popular ones.</p>
+<p><strong>Read consumer reviews.</strong> If the model has widespread complaints about a specific component (a faulty ice maker, a control board that dies after two years), factor that into your decision. The best discount in the world doesn&rsquo;t help if the product has a known reliability issue.</p>
+
+<h2>Step 7: Confirm the Return Policy</h2>
+<p>Ask three things: whether returns are accepted (many scratch and dent stores are final sale, which is standard), whether exchanges are offered within a short window for functional problems, and who&rsquo;s responsible if the unit is damaged during delivery. Get the answers in writing if possible.</p>
+
+<h2>Your Quick In-Store Checklist</h2>
+<p>To make this easy to reference while you&rsquo;re shopping, here&rsquo;s the condensed version: check all exterior surfaces and note damage locations, inspect the interior for any non-cosmetic damage, power the unit on and test all controls and functions, verify that all shelves, drawers, bins, and hardware are present, confirm warranty coverage and get terms in writing, look up the model number to verify specs and fair pricing, and ask about the return and exchange policy.</p>
+<p>If the unit passes all seven checks, you&rsquo;ve got yourself a smart buy. Ready to find a store? Browse our <a href="/">directory of 529+ verified scratch and dent stores across 35 states</a> and start saving.</p>`,
 };

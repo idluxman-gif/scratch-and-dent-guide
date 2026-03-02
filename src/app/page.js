@@ -132,9 +132,9 @@ return(<div style={{minHeight:"100vh",background:"#F9FAFB",fontFamily:"'DM Sans'
 </div>
 <div style={{display:"grid",gridTemplateColumns:"repeat(auto-fit,minmax(230px,1fr))",gap:14}}>
 {[
-{slug:"are-scratch-and-dent-appliances-worth-it",title:"Are Scratch and Dent Appliances Worth It?",desc:"Everything you need to know before buying a cosmetically imperfect appliance at a steep discount.",date:"Mar 2, 2026"},
-{slug:"how-to-save-on-refrigerators-washers-dryers",title:"How to Save 30-70% on Refrigerators, Washers & Dryers",desc:"Proven strategies for finding the best deals on major home appliances.",date:"Mar 2, 2026"},
-{slug:"scratch-and-dent-vs-open-box-vs-refurbished",title:"Scratch and Dent vs. Open Box vs. Refurbished",desc:"Understanding the key differences so you can shop smarter.",date:"Mar 2, 2026"},
+{slug:"best-time-to-buy-appliances",title:"Best Time to Buy Appliances in 2026",desc:"Month-by-month guide to when refrigerators, washers & dryers go on sale — and how to save 30-70% year-round.",date:"Mar 2, 2026"},
+{slug:"scratch-and-dent-appliances-near-me",title:"Scratch and Dent Appliances Near Me",desc:"How to find reputable scratch and dent stores in your area, what to ask before visiting, and red flags to avoid.",date:"Mar 2, 2026"},
+{slug:"how-to-inspect-scratch-and-dent-appliances",title:"How to Inspect Scratch & Dent Appliances",desc:"Step-by-step checklist for inspecting scratch and dent appliances before buying.",date:"Mar 2, 2026"},
 ].map(a=><a key={a.slug} href={"/blog/"+a.slug} style={{textDecoration:"none",color:"inherit",background:"#F9FAFB",borderRadius:12,border:"1px solid #E5E7EB",padding:18,transition:"all .2s",display:"block"}}
 onMouseEnter={e=>{e.currentTarget.style.borderColor="#10B981";e.currentTarget.style.transform="translateY(-2px)";}}
 onMouseLeave={e=>{e.currentTarget.style.borderColor="#E5E7EB";e.currentTarget.style.transform="none";}}>

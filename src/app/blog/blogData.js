@@ -23,4 +23,28 @@ export const blogArticles = [
     publishDate: "2026-03-02",
     keywords: "scratch and dent vs open box, refurbished appliances vs scratch and dent, open box appliances",
   },
+  {
+    slug: "best-time-to-buy-appliances",
+    title: "Best Time to Buy Appliances in 2026 (Month-by-Month Guide)",
+    metaTitle: "Best Time to Buy Appliances in 2026 (Monthly Guide)",
+    metaDescription: "Month-by-month guide to the best times to buy appliances in 2026. Learn when refrigerators, washers & dryers go on sale — and how to save 30-70% year-round.",
+    publishDate: "2026-03-02",
+    keywords: "best time to buy appliances, when do appliances go on sale, best time to buy refrigerator",
+  },
+  {
+    slug: "scratch-and-dent-appliances-near-me",
+    title: "Scratch and Dent Appliances Near Me: How to Find the Best Deals in Your Area",
+    metaTitle: "Scratch and Dent Appliances Near Me (Find Stores)",
+    metaDescription: "Find scratch and dent appliance stores near you. Learn how to evaluate local dealers, what to ask before visiting, and red flags to avoid. 529+ verified stores listed.",
+    publishDate: "2026-03-02",
+    keywords: "scratch and dent appliances near me, discount appliances near me, appliance outlet near me",
+  },
+  {
+    slug: "how-to-inspect-scratch-and-dent-appliances",
+    title: "How to Inspect a Scratch and Dent Appliance Before Buying (Complete Checklist)",
+    metaTitle: "How to Inspect Scratch & Dent Appliances (Checklist)",
+    metaDescription: "Step-by-step checklist for inspecting scratch and dent appliances before buying. Covers exterior, interior, functional tests, warranty, and return policy verification.",
+    publishDate: "2026-03-02",
+    keywords: "scratch and dent appliance inspection, what to check before buying appliances, how to buy scratch and dent appliances",
+  },
 ];
