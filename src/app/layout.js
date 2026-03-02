@@ -1,3 +1,4 @@
+import Script from 'next/script';
 import SiteFooter from '@/components/SiteFooter';
 
 export const metadata = {
@@ -18,6 +19,14 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
+      <head>
+        <Script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6583010255692976"
+          crossOrigin="anonymous"
+          strategy="afterInteractive"
+        />
+      </head>
       <body style={{ margin: 0 }}>
         {children}
         <SiteFooter />
