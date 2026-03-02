@@ -3,7 +3,7 @@ import PageNav from "@/components/PageNav";
 
 export const metadata = {
   title: "About Scratch & Dent Guide | Our Mission",
-  description: "ScratchAndDentGuide.com is a free directory of 437+ verified scratch and dent appliance stores across 33 US states. Learn about how we built and verify our directory.",
+  description: "Learn how ScratchAndDentGuide.com helps shoppers find 437+ verified scratch and dent appliance stores across 33 states. Free directory, no sign-up required.",
 };
 
 export default function AboutPage() {

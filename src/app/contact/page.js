@@ -3,7 +3,7 @@ import PageNav from "@/components/PageNav";
 
 export const metadata = {
   title: "Contact Us | Scratch & Dent Guide",
-  description: "Get in touch with ScratchAndDentGuide.com. Report outdated listings, suggest new stores, or ask a question. We typically respond within 1-2 business days.",
+  description: "Get in touch with ScratchAndDentGuide.com. Report issues, suggest new stores, or request listing updates.",
 };
 
 export default function ContactPage() {

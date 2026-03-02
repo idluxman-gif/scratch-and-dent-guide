@@ -3,7 +3,7 @@ import PageNav from "@/components/PageNav";
 
 export const metadata = {
   title: "Terms of Service | Scratch & Dent Guide",
-  description: "Read the ScratchAndDentGuide.com terms of service. Understand the terms governing your use of our scratch and dent appliance store directory.",
+  description: "Terms of Service for ScratchAndDentGuide.com including disclaimers on store listing accuracy, acceptable use, and limitation of liability.",
 };
 
 export default function TermsPage() {
