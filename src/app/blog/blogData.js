@@ -71,4 +71,28 @@ export const blogArticles = [
     publishDate: "2026-03-02",
     keywords: "Whirlpool scratch and dent, discount Whirlpool appliances, Whirlpool appliance outlet",
   },
+  {
+    slug: "best-scratch-and-dent-stores-atlanta",
+    title: "Best Scratch and Dent Appliance Stores in Atlanta, GA",
+    metaTitle: "Best Scratch & Dent Appliance Stores in Atlanta",
+    metaDescription: "Find the best scratch and dent appliance stores in Atlanta, GA. Save 30-70% on refrigerators, washers & dryers. Browse verified Atlanta-area stores now.",
+    publishDate: "2026-03-03",
+    keywords: "scratch and dent appliances Atlanta, discount appliances Atlanta GA, appliance outlet Atlanta",
+  },
+  {
+    slug: "best-scratch-and-dent-stores-houston",
+    title: "Best Scratch and Dent Appliance Stores in Houston, TX",
+    metaTitle: "Best Scratch & Dent Appliance Stores in Houston",
+    metaDescription: "Find the best scratch and dent appliance stores in Houston, TX. Save 30-70% on refrigerators, washers & dryers. Browse verified Houston-area stores now.",
+    publishDate: "2026-03-03",
+    keywords: "scratch and dent appliances Houston, discount appliances Houston TX, appliance outlet Houston",
+  },
+  {
+    slug: "best-scratch-and-dent-stores-phoenix",
+    title: "Best Scratch and Dent Appliance Stores in Phoenix, AZ",
+    metaTitle: "Best Scratch & Dent Appliance Stores in Phoenix",
+    metaDescription: "Find the best scratch and dent appliance stores in Phoenix, AZ. Save 30-70% on refrigerators, washers & dryers. Browse verified Phoenix-area stores now.",
+    publishDate: "2026-03-03",
+    keywords: "scratch and dent appliances Phoenix, discount appliances Phoenix AZ, appliance outlet Phoenix",
+  },
 ];

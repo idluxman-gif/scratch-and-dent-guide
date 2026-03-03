@@ -132,9 +132,9 @@ return(<div style={{minHeight:"100vh",background:"#F9FAFB",fontFamily:"'DM Sans'
 </div>
 <div style={{display:"grid",gridTemplateColumns:"repeat(auto-fit,minmax(230px,1fr))",gap:14}}>
 {[
-{slug:"samsung-scratch-and-dent-deals",title:"Samsung Scratch and Dent Deals",desc:"Find discounted Samsung appliances at scratch and dent stores. Same technology, full warranty, 30-70% off retail.",date:"Mar 2, 2026"},
-{slug:"lg-scratch-and-dent-deals",title:"LG Scratch and Dent Deals",desc:"Discounted LG InstaView fridges, TurboWash washers, QuadWash dishwashers — 30-70% off at stores near you.",date:"Mar 2, 2026"},
-{slug:"whirlpool-scratch-and-dent-deals",title:"Whirlpool Scratch and Dent Deals",desc:"Whirlpool, Maytag, KitchenAid & Amana deals at scratch and dent stores. The most widely available brand family.",date:"Mar 2, 2026"},
+{slug:"best-scratch-and-dent-stores-atlanta",title:"Best S&D Stores in Atlanta, GA",desc:"Atlanta's distribution hub status and booming housing market create one of the best scratch and dent scenes in the Southeast.",date:"Mar 3, 2026"},
+{slug:"best-scratch-and-dent-stores-houston",title:"Best S&D Stores in Houston, TX",desc:"Houston's massive metro, constant construction, and fierce dealer competition mean great scratch and dent deals across the city.",date:"Mar 3, 2026"},
+{slug:"best-scratch-and-dent-stores-phoenix",title:"Best S&D Stores in Phoenix, AZ",desc:"Phoenix's explosive growth and strong construction pipeline make it one of the best cities in the Southwest for S&D shopping.",date:"Mar 3, 2026"},
 ].map(a=><a key={a.slug} href={"/blog/"+a.slug} style={{textDecoration:"none",color:"inherit",background:"#F9FAFB",borderRadius:12,border:"1px solid #E5E7EB",padding:18,transition:"all .2s",display:"block"}}
 onMouseEnter={e=>{e.currentTarget.style.borderColor="#10B981";e.currentTarget.style.transform="translateY(-2px)";}}
 onMouseLeave={e=>{e.currentTarget.style.borderColor="#E5E7EB";e.currentTarget.style.transform="none";}}>
