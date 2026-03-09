@@ -488,4 +488,142 @@ export const articleContent = {
 <h2>Find Verified Stores in Phoenix</h2>
 <p>We&rsquo;ve verified scratch and dent appliance stores throughout Arizona, including the greater Phoenix metro. Browse the full list on our <a href="/stores/arizona">Arizona stores page</a> &mdash; complete with addresses, phone numbers, and store details.</p>
 <p>Phoenix&rsquo;s explosive growth, strong construction pipeline, and competitive dealer market make it one of the best cities in the Southwest for scratch and dent shopping. Start with our <a href="/">directory of 728+ verified stores across 51 states</a> and find the deals in your corner of the Valley.</p>`,
+  "what-are-scratch-and-dent-appliances": `<p>If you&rsquo;ve been shopping for a new refrigerator, washer, dryer, or dishwasher and felt stunned by the prices, you&rsquo;ve probably come across the term &ldquo;scratch and dent appliances.&rdquo; It sounds like damaged goods. It sounds risky. And for a lot of shoppers, that&rsquo;s where the research stops &mdash; which is a shame, because scratch and dent appliances are one of the best deals in the entire retail market.</p>
+<p>Here&rsquo;s what the term actually means, how the damage happens, and why millions of shoppers are saving thousands of dollars on brand-new appliances without sacrificing quality, performance, or warranty coverage.</p>
+
+<h2>What &ldquo;Scratch and Dent&rdquo; Means</h2>
+<p>A scratch and dent appliance is a brand-new, never-used product that has minor cosmetic imperfections on its exterior. The appliance was manufactured, quality-tested, and shipped just like every other unit on the production line. At some point between the factory and the retail showroom, it picked up a visible mark &mdash; a scratch, a dent, a scuff, or a ding &mdash; that prevents it from being sold as cosmetically perfect at full retail price.</p>
+<p>The key distinction is that the damage is purely cosmetic. The internal components &mdash; the compressor in a refrigerator, the motor in a washer, the heating element in a dryer, the pump in a dishwasher &mdash; are completely unaffected. The appliance works exactly the same as a full-price unit. It just doesn&rsquo;t look flawless on the outside.</p>
+<p>Because manufacturers and retailers can&rsquo;t sell these units as &ldquo;new in perfect condition,&rdquo; they get rerouted to scratch and dent dealers, outlet stores, and appliance liquidators who pass the savings along to consumers.</p>
+
+<h2>How the Damage Happens</h2>
+<p>Cosmetic damage can occur at several points in the supply chain, and understanding the causes helps explain why the damage is almost always superficial.</p>
+<p><strong>During shipping.</strong> This is the most common source. Appliances are large, heavy objects that travel hundreds or thousands of miles by truck. Even with careful packaging, a bump during loading, a sudden stop in transit, or a forklift nick at a distribution center can leave a dent or scratch. The damage is typically on the back, sides, or top of the unit &mdash; not the front panel.</p>
+<p><strong>During warehouse handling.</strong> Distribution warehouses process thousands of appliances. Units get shifted, stacked, and repositioned constantly. A scratch from a neighboring unit&rsquo;s edge or a dent from a warehouse rack is common. Again, these marks are cosmetic and don&rsquo;t reach the internal components.</p>
+<p><strong>Overstock and discontinued models.</strong> Sometimes &ldquo;scratch and dent&rdquo; inventory includes units that are technically cosmetically perfect but can&rsquo;t be sold at full price because the model has been discontinued or the retailer has too much stock. These are essentially new appliances at a discount with no damage at all.</p>
+<p><strong>Packaging damage.</strong> Occasionally the appliance itself is fine, but the original packaging was damaged enough that a retailer won&rsquo;t accept it as new inventory. The unit gets reclassified and sent to discount channels even though there may be minimal or no actual cosmetic damage.</p>
+
+<h2>What the Damage Actually Looks Like</h2>
+<p>This is where most shoppers are pleasantly surprised. The term &ldquo;scratch and dent&rdquo; sounds worse than the reality.</p>
+<p>A typical scratch is a thin surface mark on a side panel, back, or top &mdash; the kind of thing you might accidentally do yourself moving the appliance into your kitchen. A typical dent is a shallow depression, often smaller than a golf ball, usually on a non-visible surface. Scuffs and paint chips are also common and are similarly minor.</p>
+<p>In many cases, the cosmetic damage is on the side or back of the appliance &mdash; surfaces that are completely hidden once the unit is installed between cabinets or against a wall. Some shoppers buy scratch and dent appliances and genuinely cannot find the damage once the unit is in place.</p>
+<p>That said, damage severity varies. Some units have front-panel dents or visible scratches that you&rsquo;ll see every day. The discount on those units is typically steeper. The best approach is to inspect every unit in person and decide what you can live with &mdash; our <a href="/blog/how-to-inspect-scratch-and-dent-appliances">inspection checklist</a> walks you through exactly what to look for.</p>
+
+<h2>How Much You Can Save</h2>
+<p>Scratch and dent appliances typically sell for <strong>30% to 70% off</strong> the original retail price. The exact discount depends on the brand, the model, and the severity of the cosmetic damage.</p>
+<p>In real dollars, that means a French door refrigerator that retails for $2,500 might sell for $1,000 to $1,750. A washer-dryer pair priced at $2,000 new could cost $800 to $1,400. A dishwasher that lists for $900 might be $350 to $600.</p>
+<p>For a full kitchen setup &mdash; refrigerator, range, dishwasher, and maybe a microwave &mdash; the total savings can easily reach $2,000 to $5,000 compared to buying everything at retail. That&rsquo;s a significant chunk of a kitchen renovation budget.</p>
+<p>To understand whether those savings make sense for your situation, our <a href="/blog/are-scratch-and-dent-appliances-worth-it">guide to whether scratch and dent appliances are worth it</a> breaks down the pros, cons, and decision-making framework.</p>
+
+<h2>Warranty Coverage</h2>
+<p>This is the question that stops most first-time buyers, and the answer is almost always better than expected.</p>
+<p>Because scratch and dent appliances are new and have never been used, most still carry the <strong>full manufacturer&rsquo;s warranty</strong>. Samsung, LG, Whirlpool, GE, and other major brands warrant their products against defects in materials and workmanship &mdash; not against cosmetic imperfections. A dent on the side panel doesn&rsquo;t void your warranty for a compressor failure or an electrical issue.</p>
+<p>Warranty terms vary slightly depending on where you buy. Manufacturer-authorized outlets almost always include the full factory warranty. Independent scratch and dent retailers usually pass through the manufacturer warranty and may add their own store warranty on top. Liquidation sales occasionally sell as-is with no warranty &mdash; these offer the steepest discounts but require more caution.</p>
+<p>The rule of thumb: always ask about warranty before buying, and always get the terms in writing.</p>
+
+<h2>Where to Find Scratch and Dent Appliances</h2>
+<p>There are several places to shop, and each offers a slightly different experience.</p>
+<p><strong>Dedicated scratch and dent stores</strong> are independent dealers that specialize in cosmetically imperfect appliances. They offer the deepest discounts (30-70% off), carry multiple brands, and typically have new inventory arriving weekly. These are the go-to destination for serious savings. We&rsquo;ve verified more than 728 scratch and dent stores across all 50 states plus DC &mdash; browse them all in our <a href="/">store directory</a>.</p>
+<p><strong>Manufacturer outlet stores</strong> are operated by brands like Samsung, LG, and Whirlpool to sell their own cosmetically imperfect and discontinued models. Discounts are more modest (20-40%) but warranty coverage is straightforward.</p>
+<p><strong>Big-box retailer clearance sections</strong> at Home Depot, Lowe&rsquo;s, and Best Buy sometimes include scratch and dent units alongside open-box returns and floor models. Selection is inconsistent but worth checking.</p>
+<p><strong>Online retailers</strong> occasionally list scratch and dent appliances, though buying sight-unseen means you can&rsquo;t inspect the damage before purchasing. In-person shopping is strongly recommended for scratch and dent.</p>
+<p>For detailed guidance on finding stores in your area, including what to search for, how to evaluate a store before visiting, and what to ask when you call, see our <a href="/blog/scratch-and-dent-appliances-near-me">guide to finding scratch and dent stores near you</a>.</p>
+
+<h2>The Bottom Line</h2>
+<p>Scratch and dent appliances are brand-new, fully functional products from major manufacturers, sold at significant discounts because of minor cosmetic imperfections. The damage is surface-level, the performance is identical to full-price models, and the warranty usually comes with it.</p>
+<p>For budget-conscious shoppers, landlords, renovators, and anyone who&rsquo;d rather spend their money on something other than a flawless appliance exterior, scratch and dent is one of the smartest purchasing strategies available.</p>
+<p>Ready to find stores near you? Browse our <a href="/">directory of 728+ verified stores across all 50 states</a> and start saving.</p>`,
+  "find-scratch-and-dent-stores-near-me": `<p>You&rsquo;ve decided scratch and dent appliances are worth exploring &mdash; now you need to actually find a store. The problem is that most scratch and dent dealers are independent businesses that don&rsquo;t spend millions on advertising. They&rsquo;re not the first thing that pops up when you search online. They don&rsquo;t have big illuminated signs on every highway.</p>
+<p>But they are out there, and finding the right one is straightforward if you follow the right steps. This guide walks you through exactly how to find, evaluate, and contact scratch and dent stores in your area so you spend less time searching and more time saving.</p>
+
+<h2>Step 1: Start With Our Directory</h2>
+<p>The fastest way to find verified scratch and dent stores is our <a href="/">directory at ScratchAndDentGuide.com</a>. We&rsquo;ve cataloged 728+ stores across all 50 states plus DC, with each listing including the store&rsquo;s address, phone number, and the types of appliances they carry.</p>
+<p>You can browse by state and drill down to your city. Here are some of the most popular starting points: <a href="/stores/texas">Texas</a>, <a href="/stores/california">California</a>, <a href="/stores/florida">Florida</a>, <a href="/stores/new-york">New York</a>, and <a href="/stores/ohio">Ohio</a> &mdash; but we cover every state in the country.</p>
+<p>The advantage of starting here is that every store has been verified. You&rsquo;re not sorting through irrelevant Google results, closed businesses, or listings that turn out to be something else entirely.</p>
+
+<h2>Step 2: Expand Your Search With Google Maps</h2>
+<p>Our directory is comprehensive, but Google Maps can surface additional options &mdash; especially newer stores that opened recently or dealers that operate under names that don&rsquo;t include &ldquo;scratch and dent.&rdquo;</p>
+<p>Open Google Maps and try these search terms in your area:</p>
+<p><strong>&ldquo;Scratch and dent appliances&rdquo;</strong> is the obvious starting point and catches the stores that use the term in their business name or description.</p>
+<p><strong>&ldquo;Discount appliance store&rdquo;</strong> picks up dealers that sell scratch and dent inventory but brand themselves more broadly. Many successful S&amp;D stores position themselves as general discount appliance retailers.</p>
+<p><strong>&ldquo;Appliance outlet&rdquo;</strong> catches outlet-style stores, including manufacturer-run outlets and independent dealers that use the outlet label.</p>
+<p><strong>&ldquo;Appliance liquidation&rdquo;</strong> finds liquidators who buy overstock, closeout, and cosmetically imperfect inventory from manufacturers and big-box retailers.</p>
+<p><strong>&ldquo;Used appliance store&rdquo;</strong> can sometimes surface S&amp;D dealers, though you&rsquo;ll need to filter out stores that primarily sell used or refurbished units. If you&rsquo;re not sure about the difference, our <a href="/blog/what-are-scratch-and-dent-appliances">guide to what scratch and dent appliances actually are</a> explains how they differ from used and refurbished products.</p>
+<p>When results appear, look at the star rating, number of reviews, and photo gallery before clicking through. Stores with fewer than ten reviews aren&rsquo;t necessarily bad, but stores with 50+ positive reviews are a strong signal.</p>
+
+<h2>Step 3: Evaluate Stores Before You Visit</h2>
+<p>Once you&rsquo;ve built a list of three to five stores within driving distance, spend a few minutes evaluating each one from home. This saves you from wasting a trip on a store that isn&rsquo;t worth your time.</p>
+<p><strong>Check their Google Business profile.</strong> Look at the overall rating (4.0 or higher is a good baseline), read the most recent reviews, and pay attention to what people say about pricing, inventory quality, staff helpfulness, and post-sale support. Negative reviews about bait-and-switch pricing or refusal to honor warranties are serious red flags.</p>
+<p><strong>Look at their photos.</strong> Stores that post photos of their showroom and current inventory are generally more transparent and organized. You can get a sense of the store&rsquo;s size, cleanliness, brand selection, and overall professionalism from a handful of photos. No photos at all might just mean a less tech-savvy owner, but it gives you less to go on.</p>
+<p><strong>Visit their website or social media.</strong> Many independent S&amp;D stores maintain a Facebook page where they post new arrivals, sales, and inventory photos. This is useful for seeing what&rsquo;s currently in stock before you drive over. Some stores also list prices, warranty policies, and delivery options on their website.</p>
+<p><strong>Check their hours and location.</strong> Scratch and dent stores often keep non-standard hours &mdash; some are closed on Mondays, others have limited weekend hours. Verify before you drive, especially if the store is far from home. Also note whether the location looks like an actual retail storefront versus a residential address or an ambiguous industrial park &mdash; storefront locations are generally more reliable.</p>
+
+<h2>Step 4: Call Before You Go</h2>
+<p>A five-minute phone call is the single most valuable thing you can do before visiting a scratch and dent store. Inventory at these stores changes daily, and the trip isn&rsquo;t worth making if they don&rsquo;t have what you need.</p>
+<p>Here&rsquo;s exactly what to ask:</p>
+<p><strong>&ldquo;Do you have [appliance type] in stock right now?&rdquo;</strong> Be specific &mdash; &ldquo;Do you have French door refrigerators?&rdquo; is better than &ldquo;Do you have fridges?&rdquo; Scratch and dent inventory is limited, and knowing whether they have your category in stock saves a wasted trip.</p>
+<p><strong>&ldquo;What brands do you typically carry?&rdquo;</strong> If you have a brand preference, this tells you whether the store is likely to meet your needs. If they primarily carry brands you&rsquo;ve never heard of, that may not be the right store.</p>
+<p><strong>&ldquo;What&rsquo;s your price range on [appliance type]?&rdquo;</strong> Getting a ballpark number over the phone helps you compare across stores and lets you know if their pricing is competitive before you commit to a visit.</p>
+<p><strong>&ldquo;Do you offer any warranty?&rdquo;</strong> This is a critical question. The answer tells you a lot about the store&rsquo;s legitimacy and how they&rsquo;ll treat you after the sale. Stores that confidently explain their warranty terms are generally more trustworthy than those that dodge the question.</p>
+<p><strong>&ldquo;Do you deliver?&rdquo;</strong> Knowing this upfront helps you plan logistics. If they don&rsquo;t deliver, you&rsquo;ll need to arrange a truck or trailer.</p>
+<p><strong>&ldquo;When did your last shipment arrive, and when&rsquo;s the next one?&rdquo;</strong> Fresh inventory means better selection. If their last shipment was weeks ago and the floor is picked over, it might be worth waiting a few days and visiting after the next delivery.</p>
+
+<h2>Step 5: Plan an Efficient Trip</h2>
+<p>If you&rsquo;re serious about getting the best deal, visit two or three stores in a single trip rather than committing to the first one you find. Map out stores along a single route to minimize drive time, and bring a few things with you.</p>
+<p><strong>Bring your measurements.</strong> Know the width, height, and depth of the space where the appliance will go, including clearances for door swing and any cabinetry or countertop constraints.</p>
+<p><strong>Bring your phone charged.</strong> You&rsquo;ll use it to look up model numbers, check retail prices, read consumer reviews, and compare the store&rsquo;s pricing to what&rsquo;s available elsewhere.</p>
+<p><strong>Bring a way to take photos.</strong> Photograph the model number sticker, any cosmetic damage, the price tag, and any warranty documentation. This makes it easy to compare across stores later.</p>
+<p>Once you&rsquo;re in the store, follow our <a href="/blog/how-to-inspect-scratch-and-dent-appliances">step-by-step inspection checklist</a> to make sure you&rsquo;re evaluating each unit thoroughly before buying.</p>
+<p>For broader tips on evaluating stores, spotting red flags, and getting the best possible deal, our <a href="/blog/scratch-and-dent-appliances-near-me">guide to finding scratch and dent stores near you</a> covers additional strategies.</p>
+
+<h2>Start Your Search</h2>
+<p>The best deal on your next appliance is probably closer than you think &mdash; you just need to know where to look. Start with our <a href="/">directory of 728+ verified stores across all 50 states</a>, expand with Google Maps, and use the evaluation steps above to narrow your list to the stores worth visiting. Five minutes of research can save you hundreds or thousands of dollars.</p>`,
+  "floor-model-appliances-worth-buying": `<p>You&rsquo;re browsing the appliance section at a big-box store and you notice a tag on one of the display models: &ldquo;Floor Model &mdash; 25% Off.&rdquo; The refrigerator looks fine. The price is noticeably lower. But something makes you hesitate. Is a floor model appliance actually a good deal, or are you buying someone else&rsquo;s problem?</p>
+<p>The short answer is that floor models can be a smart purchase &mdash; but they&rsquo;re a different proposition than buying scratch and dent or new-in-box. Here&rsquo;s what you need to know to decide whether a floor model is right for you.</p>
+
+<h2>What Is a Floor Model Appliance?</h2>
+<p>A floor model (also called a display model) is a unit that has been on display in a store&rsquo;s showroom for customers to see, touch, and interact with. It&rsquo;s been plugged in so the interior lights work. Customers have opened and closed its doors hundreds or thousands of times. Salespeople have demonstrated its features to countless shoppers.</p>
+<p>The unit has never been used for its intended purpose &mdash; nobody has stored food in that refrigerator, washed clothes in that washer, or cooked a meal in that range. But it has experienced wear from being a demonstration unit. Fingerprints, minor surface scratches from people bumping into it, slight wear on handles and control panels, and dust accumulation inside are all normal.</p>
+<p>Floor models get sold when the store needs to make room for newer versions of the same product, when a model is being discontinued, or when the store is rearranging its showroom layout.</p>
+
+<h2>How Floor Models Differ From Scratch and Dent</h2>
+<p>This is an important distinction that many shoppers miss.</p>
+<p><strong>Scratch and dent appliances</strong> are brand-new units that were never displayed or used in any capacity. Their only flaw is cosmetic damage sustained during manufacturing, shipping, or warehouse handling. They&rsquo;ve never been plugged in, opened by customers, or put on a showroom floor. If you&rsquo;re not familiar with scratch and dent, our <a href="/blog/what-are-scratch-and-dent-appliances">guide explains everything about how they work</a>.</p>
+<p><strong>Floor models</strong> have been on display for weeks or months. While they haven&rsquo;t been &ldquo;used&rdquo; in the traditional sense, they&rsquo;ve experienced wear from being a public demonstration unit. The mechanical components are new, but the exterior has more general wear and tear than a scratch and dent unit.</p>
+<p>The practical difference for you as a buyer is that scratch and dent units have specific, identifiable cosmetic damage (a dent here, a scratch there) that you can evaluate and decide to accept. Floor models have diffuse, general wear &mdash; not a single defect but a broader category of &ldquo;this has been touched by a lot of people.&rdquo;</p>
+<p>For a complete breakdown of how scratch and dent compares to other discount categories including open box and refurbished, see our <a href="/blog/scratch-and-dent-vs-open-box-vs-refurbished">comparison guide</a>.</p>
+
+<h2>Typical Discounts on Floor Models</h2>
+<p>Floor model discounts generally range from <strong>15% to 40% off</strong> the original retail price. The exact discount depends on how long the unit was on display, the overall condition, and how motivated the retailer is to clear the floor.</p>
+<p>A refrigerator that retails for $2,500 might sell as a floor model for $1,500 to $2,125. A washer that lists at $1,000 might drop to $600 to $850. Ranges and dishwashers see similar percentage reductions.</p>
+<p>These savings are meaningful but are typically less than what you&rsquo;d find at a scratch and dent store, where discounts of 30% to 70% are standard. The trade-off is that floor models at big-box stores are convenient to find and buy &mdash; you can see them right there on the showroom floor &mdash; while scratch and dent shopping requires visiting specialized dealers.</p>
+
+<h2>The Pros of Buying Floor Models</h2>
+<p><strong>You can inspect it thoroughly.</strong> The unit is right there, plugged in and operational. You can test every feature and evaluate the condition without asking anyone to unbox anything.</p>
+<p><strong>Mechanical components are new.</strong> Even though the exterior has wear, the motor, compressor, and electronics have only been powered on for display. They haven&rsquo;t run actual cycles.</p>
+<p><strong>Convenient purchasing.</strong> You&rsquo;re buying from a major retailer with established return policies, delivery services, and customer support.</p>
+<p><strong>Negotiation is expected.</strong> The price tag on a floor model is a starting point, not a final offer. You can often push the discount an additional 5% to 15% beyond the tagged price.</p>
+
+<h2>The Cons of Buying Floor Models</h2>
+<p><strong>General wear and tear.</strong> Hundreds of people have interacted with this appliance. Handles may be slightly loosened, surfaces may have fine scratches, and control panels may show wear on commonly pressed buttons. This is more pervasive than the single blemish on a scratch and dent unit.</p>
+<p><strong>Potentially missing parts.</strong> Floor models sometimes lose accessories &mdash; a shelf gets broken, a crisper drawer cracks, hardware goes missing. Always check that every component is present and factor in replacement costs.</p>
+<p><strong>Warranty can be shorter.</strong> Some retailers start the manufacturer warranty clock from when the unit was first displayed, not from your purchase date &mdash; meaning you could lose months of coverage. Others restart the warranty fresh. Always clarify this before buying, as it can make or break the value of the deal.</p>
+<p><strong>Limited selection.</strong> You can only buy what&rsquo;s on the showroom floor. If you&rsquo;re outfitting a full kitchen in a matching set, floor models alone probably won&rsquo;t get you there.</p>
+
+<h2>Negotiation Tips for Floor Models</h2>
+<p>Floor models are one of the most negotiable items in retail. Here are strategies that work.</p>
+<p><strong>Research the retail price.</strong> Know what the unit sells for new so you can evaluate whether the floor model discount is genuinely competitive. Some stores mark up the &ldquo;original&rdquo; price to make the discount look bigger.</p>
+<p><strong>Ask for additional discount beyond the tag.</strong> The floor model sticker price is rarely the best the store can do. Politely ask if there&rsquo;s any flexibility. Phrases like &ldquo;Is there any room on the price?&rdquo; or &ldquo;What&rsquo;s the best you can do on this?&rdquo; are standard in appliance sales.</p>
+<p><strong>Request free delivery or installation.</strong> If the store won&rsquo;t budge on price, ask them to waive delivery or installation fees. This effectively increases your discount by $100 to $200.</p>
+<p><strong>Bundle if possible.</strong> If you&rsquo;re buying a floor model plus a new-in-box unit (say, a floor model fridge and a new dishwasher), ask for a package price on the combined purchase.</p>
+<p><strong>Time your visit.</strong> Floor models get marked down most aggressively when new product lines are arriving. For refrigerators, that&rsquo;s typically around May. For washers, dryers, and dishwashers, September through October is prime time. Salespeople are most motivated to clear floor space right before new inventory arrives.</p>
+
+<h2>When to Buy Floor Model vs. Scratch and Dent</h2>
+<p><strong>Choose a floor model if</strong> you want the convenience of buying from a big-box retailer, you can negotiate a strong discount, the warranty starts from your purchase date, and you&rsquo;ve inspected the unit thoroughly with no concerns.</p>
+<p><strong>Choose scratch and dent if</strong> you want the deepest possible savings, you prefer a unit that&rsquo;s never been displayed or interacted with by the public, you want a specific cosmetic flaw you can evaluate rather than general wear, and you&rsquo;re comfortable shopping at independent dealers.</p>
+<p>For most shoppers looking to maximize savings, scratch and dent offers a better value &mdash; deeper discounts on units with less overall wear. But floor models are a solid alternative when you find the right one at the right price, especially when negotiation brings the cost down further.</p>
+
+<h2>Find Deals on Both</h2>
+<p>Whether you&rsquo;re shopping for floor models at your local big-box store or seeking deeper savings at a scratch and dent dealer, the inspection process matters. Our <a href="/blog/are-scratch-and-dent-appliances-worth-it">guide to whether scratch and dent is worth it</a> covers the fundamentals for any discount appliance purchase.</p>
+<p>And if you want the 30-70% savings that scratch and dent offers, browse our <a href="/">directory of 728+ verified stores across all 50 states</a> to find dealers in your area.</p>`,
 };

@@ -95,4 +95,28 @@ export const blogArticles = [
     publishDate: "2026-03-03",
     keywords: "scratch and dent appliances Phoenix, discount appliances Phoenix AZ, appliance outlet Phoenix",
   },
+  {
+    slug: "what-are-scratch-and-dent-appliances",
+    title: "What Are Scratch and Dent Appliances? Everything You Need to Know",
+    metaTitle: "What Are Scratch and Dent Appliances? (Explained)",
+    metaDescription: "Learn what scratch and dent appliances are, how the damage happens, what savings to expect (30-70% off), and where to find them. 728+ verified stores listed.",
+    publishDate: "2026-03-08",
+    keywords: "scratch and dent appliances, dent and scratch appliances, what are scratch and dent appliances, dents and scratches appliances",
+  },
+  {
+    slug: "find-scratch-and-dent-stores-near-me",
+    title: "Scratch and Dent Appliance Stores Near Me: Your Complete Search Guide",
+    metaTitle: "Find Scratch & Dent Appliance Stores Near You",
+    metaDescription: "Step-by-step guide to finding scratch and dent appliance stores near you. Search our directory of 728+ verified stores, plus Google Maps tips and what to ask.",
+    publishDate: "2026-03-08",
+    keywords: "scratch and dent appliances near me, scratch and dent stores near me, appliance scratch and dent near me, discount appliances near me",
+  },
+  {
+    slug: "floor-model-appliances-worth-buying",
+    title: "Floor Model Appliances: Are They Worth Buying?",
+    metaTitle: "Floor Model Appliances: Are They Worth It? (Guide)",
+    metaDescription: "Should you buy a floor model appliance? Learn about typical discounts (15-40%), what to inspect, warranty differences, and how floor models compare to scratch and dent.",
+    publishDate: "2026-03-08",
+    keywords: "floor model appliances, floor model appliance deals, should I buy a floor model appliance, display model appliances",
+  },
 ];

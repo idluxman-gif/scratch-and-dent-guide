@@ -132,9 +132,9 @@ return(<div style={{minHeight:"100vh",background:"#F9FAFB",fontFamily:"'DM Sans'
 </div>
 <div style={{display:"grid",gridTemplateColumns:"repeat(auto-fit,minmax(230px,1fr))",gap:14}}>
 {[
-{slug:"best-scratch-and-dent-stores-atlanta",title:"Best S&D Stores in Atlanta, GA",desc:"Atlanta's distribution hub status and booming housing market create one of the best scratch and dent scenes in the Southeast.",date:"Mar 3, 2026"},
-{slug:"best-scratch-and-dent-stores-houston",title:"Best S&D Stores in Houston, TX",desc:"Houston's massive metro, constant construction, and fierce dealer competition mean great scratch and dent deals across the city.",date:"Mar 3, 2026"},
-{slug:"best-scratch-and-dent-stores-phoenix",title:"Best S&D Stores in Phoenix, AZ",desc:"Phoenix's explosive growth and strong construction pipeline make it one of the best cities in the Southwest for S&D shopping.",date:"Mar 3, 2026"},
+{slug:"what-are-scratch-and-dent-appliances",title:"What Are Scratch and Dent Appliances?",desc:"Learn what scratch and dent appliances are, how the damage happens, what savings to expect (30-70% off), and where to find them.",date:"Mar 8, 2026"},
+{slug:"find-scratch-and-dent-stores-near-me",title:"Find Scratch & Dent Stores Near You",desc:"Step-by-step guide to finding scratch and dent appliance stores near you, plus Google Maps tips and what to ask before visiting.",date:"Mar 8, 2026"},
+{slug:"floor-model-appliances-worth-buying",title:"Floor Model Appliances: Worth Buying?",desc:"Should you buy a floor model appliance? Learn about typical discounts, what to inspect, and how floor models compare to scratch and dent.",date:"Mar 8, 2026"},
 ].map(a=><a key={a.slug} href={"/blog/"+a.slug} style={{textDecoration:"none",color:"inherit",background:"#F9FAFB",borderRadius:12,border:"1px solid #E5E7EB",padding:18,transition:"all .2s",display:"block"}}
 onMouseEnter={e=>{e.currentTarget.style.borderColor="#10B981";e.currentTarget.style.transform="translateY(-2px)";}}
 onMouseLeave={e=>{e.currentTarget.style.borderColor="#E5E7EB";e.currentTarget.style.transform="none";}}>
