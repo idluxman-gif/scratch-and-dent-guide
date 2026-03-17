@@ -26,8 +26,7 @@ export default function StatePage({ params }) {
   const stateCode = findStateCode(params.state);
   if (!stateCode) notFound();
   const stateName = stateNames[stateCode];
-  const byCity = getStoresByCity(stateCode);
-  const cities = Object.keys(byCity).sort();
+  const cityEntries = getStoresByCity(stateCode);
   const totalStores = stores.filter(s => s.s === stateCode).length;
 
   const jsonLd = {
@@ -70,17 +69,17 @@ export default function StatePage({ params }) {
             Scratch & Dent Appliance Stores in {stateName}
           </h1>
           <p style={{ color: '#666', fontSize: 16, margin: '0 0 32px' }}>
-            {totalStores} verified stores across {cities.length} cities. Save 30-70% on brand-name appliances.
+            {totalStores} verified stores across {cityEntries.length} cities. Save 30-70% on brand-name appliances.
           </p>
 
           {/* Cities grid */}
           <h2 style={{ fontSize: 20, fontWeight: 700, color: '#1a2332', marginBottom: 16 }}>Cities in {stateName}</h2>
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(200px, 1fr))', gap: 12, marginBottom: 40 }}>
-            {cities.map(city => (
-              <Link key={city} href={getCityPath(stateCode, city)}
+            {cityEntries.map(([cityName, cityStores]) => (
+              <Link key={cityName} href={getCityPath(stateCode, cityName)}
                 style={{ background: '#fff', padding: '12px 16px', borderRadius: 8, textDecoration: 'none', color: '#1a2332', border: '1px solid #e5e7eb', fontWeight: 500, fontSize: 14, display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-                <span>{city}</span>
-                <span style={{ background: '#f0fdf4', color: '#16a34a', padding: '2px 8px', borderRadius: 12, fontSize: 12, fontWeight: 600 }}>{byCity[city].length}</span>
+                <span>{cityName}</span>
+                <span style={{ background: '#f0fdf4', color: '#16a34a', padding: '2px 8px', borderRadius: 12, fontSize: 12, fontWeight: 600 }}>{cityStores.length}</span>
               </Link>
             ))}
           </div>
