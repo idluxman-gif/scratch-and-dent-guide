@@ -8,7 +8,10 @@
     "start": "next start",
     "seo:submit": "node scripts/seo-submit.js --all",
     "seo:submit:google": "node scripts/seo-submit.js --google",
-    "seo:submit:bing": "node scripts/seo-submit.js --bing"
+    "seo:submit:bing": "node scripts/seo-submit.js --bing",
+    "ingest": "node scripts/ingest/pipeline.js",
+    "ingest:fetch": "node scripts/ingest/pipeline.js --fetch",
+    "ingest:dry-run": "node scripts/ingest/pipeline.js --dry-run"
   },
   "dependencies": {
     "next": "^14.2.0",
