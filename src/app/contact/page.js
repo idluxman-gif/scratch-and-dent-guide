@@ -4,6 +4,7 @@ import PageNav from "@/components/PageNav";
 export const metadata = {
   title: "Contact Us | Scratch & Dent Guide",
   description: "Get in touch with ScratchAndDentGuide.com. Report issues, suggest new stores, or request listing updates.",
+  alternates: { canonical: "/contact" },
 };
 
 export default function ContactPage() {

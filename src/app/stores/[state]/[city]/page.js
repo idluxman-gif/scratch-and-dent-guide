@@ -25,6 +25,9 @@ export function generateMetadata({ params }) {
   return {
     title: `Scratch & Dent Appliance Stores in ${cityName}, ${stateName} (${cityStores.length} Stores)`,
     description: `Find ${cityStores.length} scratch and dent appliance stores in ${cityName}, ${stateName}. Save 30-70% on refrigerators, washers, dryers and more.`,
+    alternates: {
+      canonical: `/stores/${params.state}/${params.city}`,
+    },
     openGraph: {
       title: `Scratch & Dent Stores in ${cityName}, ${stateName}`,
       description: `${cityStores.length} discount appliance stores in ${cityName}. Save 30-70%.`,

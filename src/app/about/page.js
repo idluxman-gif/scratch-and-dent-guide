@@ -4,6 +4,7 @@ import PageNav from "@/components/PageNav";
 export const metadata = {
   title: "About Scratch & Dent Guide | Our Mission",
   description: "Learn how ScratchAndDentGuide.com helps shoppers find 728+ verified scratch and dent appliance stores across 51 states. Free directory, no sign-up required.",
+  alternates: { canonical: "/about" },
 };
 
 export default function AboutPage() {

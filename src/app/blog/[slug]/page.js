@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { notFound } from "next/navigation";
 import PageNav from "@/components/PageNav";
 import { blogArticles } from "../blogData";
 import { articleContent } from "../articleContent";
@@ -14,6 +15,9 @@ export function generateMetadata({ params }) {
     title: article.metaTitle,
     description: article.metaDescription,
     keywords: article.keywords,
+    alternates: {
+      canonical: `/blog/${article.slug}`,
+    },
     openGraph: {
       title: article.metaTitle,
       description: article.metaDescription,
@@ -26,7 +30,7 @@ export function generateMetadata({ params }) {
 
 export default function BlogArticlePage({ params }) {
   const article = blogArticles.find((a) => a.slug === params.slug);
-  if (!article) return <div>Article not found</div>;
+  if (!article) notFound();
 
   const content = articleContent[article.slug] || "";
   const publishFormatted = new Date(article.publishDate).toLocaleDateString("en-US", {

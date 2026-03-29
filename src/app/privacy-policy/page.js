@@ -4,6 +4,7 @@ import PageNav from "@/components/PageNav";
 export const metadata = {
   title: "Privacy Policy | Scratch & Dent Guide",
   description: "Read the ScratchAndDentGuide.com privacy policy covering data collection, cookies, Google AdSense, Analytics, and your rights under CCPA and GDPR.",
+  alternates: { canonical: "/privacy-policy" },
 };
 
 export default function PrivacyPolicyPage() {

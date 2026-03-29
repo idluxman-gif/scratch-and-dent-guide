@@ -15,6 +15,9 @@ export function generateMetadata({ params }) {
   return {
     title: `Scratch & Dent Appliance Stores in ${stateName} (${stateStores.length} Stores) | ScratchAndDentGuide.com`,
     description: `Find ${stateStores.length} verified scratch and dent appliance stores in ${stateName}. Save 30-70% on refrigerators, washers, dryers and more from top brands.`,
+    alternates: {
+      canonical: `/stores/${params.state}`,
+    },
     openGraph: {
       title: `Scratch & Dent Appliance Stores in ${stateName}`,
       description: `Browse ${stateStores.length} discount appliance stores in ${stateName}. Save 30-70% on brand-name appliances.`,

@@ -4,6 +4,7 @@ import PageNav from "@/components/PageNav";
 export const metadata = {
   title: "Terms of Service | Scratch & Dent Guide",
   description: "Terms of Service for ScratchAndDentGuide.com including disclaimers on store listing accuracy, acceptable use, and limitation of liability.",
+  alternates: { canonical: "/terms" },
 };
 
 export default function TermsPage() {

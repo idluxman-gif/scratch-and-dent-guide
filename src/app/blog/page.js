@@ -5,6 +5,7 @@ import { blogArticles } from "./blogData";
 export const metadata = {
   title: "Blog | Scratch & Dent Appliance Tips & Guides",
   description: "Expert guides on buying scratch and dent appliances, saving money on refrigerators, washers, dryers, and understanding the difference between scratch and dent, open box, and refurbished.",
+  alternates: { canonical: "/blog" },
   openGraph: {
     title: "Blog | Scratch & Dent Appliance Tips & Guides",
     description: "Expert guides on buying discount appliances and saving 30-70% on major brands.",
