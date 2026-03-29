@@ -1,8 +1,9 @@
 import { stores, stateNames, getStateSlug, getCitySlug, getStoreSlug } from '@/data/stores';
 import { blogArticles } from './blog/blogData';
+import { siteConfig } from '@/config/site';
 
 export default function sitemap() {
-  const baseUrl = 'https://www.scratchanddentguide.com';
+  const baseUrl = siteConfig.domain;
 
   // Homepage
   const routes = [

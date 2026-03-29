@@ -2,6 +2,9 @@ import Link from 'next/link';
 import { stores, stateNames, findStateCode, getStateSlug, getCitySlug, getStoreSlug, getStorePath, getStatePath, getCityPath } from '@/data/stores';
 import { notFound } from 'next/navigation';
 import QuoteForm from './QuoteForm';
+import { siteConfig } from '@/config/site';
+
+const { listing, domain, displayName, icon } = siteConfig;
 
 export function generateStaticParams() {
   return stores.map(s => ({
@@ -20,11 +23,11 @@ export function generateMetadata({ params }) {
   if (!store) return {};
   const stateName = stateNames[store.s];
   return {
-    title: `${store.n} - Scratch & Dent Appliances in ${store.c}, ${stateName}`,
-    description: `Save 30-70% on brand-name appliances at ${store.n} in ${store.c}, ${stateName}. Shop scratch and dent refrigerators, washers, dryers and more. Rated ${store.r}/5 from ${store.v.toLocaleString()} reviews.`,
+    title: `${store.n} - ${listing.categoryLabel} in ${store.c}, ${stateName}`,
+    description: `${listing.metaSavings} at ${store.n} in ${store.c}, ${stateName}. Rated ${store.r}/5 from ${store.v.toLocaleString()} reviews.`,
     openGraph: {
-      title: `${store.n} - Scratch & Dent Appliances`,
-      description: `Save 30-70% at ${store.n} in ${store.c}, ${stateName}. ${store.r}★ rating.`,
+      title: `${store.n} - ${listing.categoryLabel}`,
+      description: `${store.n} in ${store.c}, ${stateName}. ${store.r}★ rating.`,
     },
   };
 }
@@ -53,7 +56,7 @@ export default function StorePage({ params }) {
       "addressCountry": "US",
     },
     "telephone": store.p,
-    "url": store.w || `https://www.scratchanddentguide.com${getStorePath(store)}`,
+    "url": store.w || `${domain}${getStorePath(store)}`,
     "aggregateRating": {
       "@type": "AggregateRating",
       "ratingValue": store.r,
@@ -61,16 +64,16 @@ export default function StorePage({ params }) {
     },
     "priceRange": store.pr,
     "image": "",
-    "description": `Scratch and dent appliance store in ${store.c}, ${stateName}. Save 30-70% on brand-name appliances.`,
+    "description": `${listing.categoryLabel} ${listing.singular} in ${store.c}, ${stateName}. ${listing.metaSavings}`,
   };
 
   const breadcrumbLd = {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     "itemListElement": [
-      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.scratchanddentguide.com" },
-      { "@type": "ListItem", "position": 2, "name": stateName, "item": `https://www.scratchanddentguide.com${getStatePath(store.s)}` },
-      { "@type": "ListItem", "position": 3, "name": store.c, "item": `https://www.scratchanddentguide.com${getCityPath(store.s, store.c)}` },
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": domain },
+      { "@type": "ListItem", "position": 2, "name": stateName, "item": `${domain}${getStatePath(store.s)}` },
+      { "@type": "ListItem", "position": 3, "name": store.c, "item": `${domain}${getCityPath(store.s, store.c)}` },
       { "@type": "ListItem", "position": 4, "name": store.n },
     ],
   };
@@ -83,7 +86,7 @@ export default function StorePage({ params }) {
         {/* Header */}
         <header style={{ background: '#1a2332', padding: '16px 24px', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
           <Link href="/" style={{ color: '#fff', textDecoration: 'none', fontWeight: 700, fontSize: 18 }}>
-            <span style={{ color: '#f59e0b' }}>&#x1f4a7;</span> Scratch&DentGuide
+            <span style={{ color: '#f59e0b' }}>{icon}</span> {displayName}
           </Link>
           <nav style={{ display: 'flex', gap: 16 }}>
             <Link href="/" style={{ color: '#ccc', textDecoration: 'none', fontSize: 14 }}>Browse</Link>
@@ -183,11 +186,10 @@ export default function StorePage({ params }) {
               <div style={{ marginBottom: 24 }}>
                 <h2 style={{ fontSize: 18, fontWeight: 700, color: '#1a2332', marginBottom: 12 }}>About {store.n}</h2>
                 <p style={{ fontSize: 15, color: '#444', lineHeight: 1.6 }}>
-                  {store.n} is a scratch and dent appliance store located in {store.c}, {stateName}.
-                  They offer discounted brand-name appliances including refrigerators, washers, dryers, dishwashers,
-                  and more at 30-70% off retail prices. With a {store.r}-star rating from {store.v.toLocaleString()} reviews,
-                  this store is {store.r >= 4.5 ? 'one of the highest-rated' : 'a well-reviewed'} appliance
-                  {store.pr === '$' ? ' budget' : ''} store in the {store.c} area.
+                  {store.n} is a {listing.categoryLabel.toLowerCase()} {listing.singular} located in {store.c}, {stateName}.
+                  {listing.metaSavings} With a {store.r}-star rating from {store.v.toLocaleString()} reviews,
+                  this {listing.singular} is {store.r >= 4.5 ? 'one of the highest-rated' : 'a well-reviewed'}
+                  {store.pr === '$' ? ' budget' : ''} {listing.singular} in the {store.c} area.
                 </p>
               </div>
 
@@ -200,7 +202,7 @@ export default function StorePage({ params }) {
           {otherStores.length > 0 && (
             <div style={{ marginBottom: 40 }}>
               <h2 style={{ fontSize: 20, fontWeight: 700, color: '#1a2332', marginBottom: 16 }}>
-                Other Stores in {store.c}
+                Other {listing.plural} in {store.c}
               </h2>
               <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(250px, 1fr))', gap: 16 }}>
                 {otherStores.map(other => (
@@ -223,10 +225,10 @@ export default function StorePage({ params }) {
           {/* Navigation */}
           <div style={{ textAlign: 'center', padding: '24px 0 48px', display: 'flex', justifyContent: 'center', gap: 24, flexWrap: 'wrap' }}>
             <Link href={getCityPath(store.s, store.c)} style={{ color: '#2563eb', textDecoration: 'none', fontWeight: 600 }}>
-              &larr; All {store.c} Stores
+              &larr; All {store.c} {listing.plural}
             </Link>
             <Link href={getStatePath(store.s)} style={{ color: '#2563eb', textDecoration: 'none', fontWeight: 600 }}>
-              All {stateName} Stores
+              All {stateName} {listing.plural}
             </Link>
             <Link href="/" style={{ color: '#2563eb', textDecoration: 'none', fontWeight: 600 }}>
               Full Directory

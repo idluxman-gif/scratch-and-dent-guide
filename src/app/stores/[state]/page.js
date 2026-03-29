@@ -1,6 +1,9 @@
 import Link from 'next/link';
 import { stores, stateNames, findStateCode, getStoresByCity, getCitySlug, getStateSlug, getStorePath, getCityPath } from '@/data/stores';
 import { notFound } from 'next/navigation';
+import { siteConfig } from '@/config/site';
+
+const { listing, domain, displayName, icon } = siteConfig;
 
 export function generateStaticParams() {
   const states = [...new Set(stores.map(s => s.s))];
@@ -13,14 +16,14 @@ export function generateMetadata({ params }) {
   const stateName = stateNames[stateCode];
   const stateStores = stores.filter(s => s.s === stateCode);
   return {
-    title: `Scratch & Dent Appliance Stores in ${stateName} (${stateStores.length} Stores) | ScratchAndDentGuide.com`,
-    description: `Find ${stateStores.length} verified scratch and dent appliance stores in ${stateName}. Save 30-70% on refrigerators, washers, dryers and more from top brands.`,
+    title: `${listing.categoryLabel} ${listing.plural} in ${stateName} (${stateStores.length} ${listing.plural}) | ${displayName}`,
+    description: `Find ${stateStores.length} verified ${listing.niche || listing.categoryLabel.toLowerCase()} ${listing.plural} in ${stateName}. ${listing.metaSavings}`,
     alternates: {
-      canonical: `/stores/${params.state}`,
+      canonical: `/${siteConfig.listingsRoute}/${params.state}`,
     },
     openGraph: {
-      title: `Scratch & Dent Appliance Stores in ${stateName}`,
-      description: `Browse ${stateStores.length} discount appliance stores in ${stateName}. Save 30-70% on brand-name appliances.`,
+      title: `${listing.categoryLabel} ${listing.plural} in ${stateName}`,
+      description: `Browse ${stateStores.length} discount ${listing.singular} locations in ${stateName}. ${listing.metaSavings}`,
     },
   };
 }
@@ -35,12 +38,12 @@ export default function StatePage({ params }) {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "ItemList",
-    "name": `Scratch & Dent Appliance Stores in ${stateName}`,
+    "name": `${listing.categoryLabel} ${listing.plural} in ${stateName}`,
     "numberOfItems": totalStores,
     "itemListElement": stores.filter(s => s.s === stateCode).map((store, idx) => ({
       "@type": "ListItem",
       "position": idx + 1,
-      "url": `https://www.scratchanddentguide.com${getStorePath(store)}`,
+      "url": `${domain}${getStorePath(store)}`,
       "name": store.n,
     })),
   };
@@ -52,7 +55,7 @@ export default function StatePage({ params }) {
         {/* Header */}
         <header style={{ background: '#1a2332', padding: '16px 24px', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
           <Link href="/" style={{ color: '#fff', textDecoration: 'none', fontWeight: 700, fontSize: 18 }}>
-            <span style={{ color: '#f59e0b' }}>&#x1f4a7;</span> Scratch&DentGuide
+            <span style={{ color: '#f59e0b' }}>{icon}</span> {displayName}
           </Link>
           <nav style={{ display: 'flex', gap: 16 }}>
             <Link href="/" style={{ color: '#ccc', textDecoration: 'none', fontSize: 14 }}>Browse</Link>
@@ -69,10 +72,10 @@ export default function StatePage({ params }) {
           </div>
 
           <h1 style={{ fontSize: 32, fontWeight: 800, color: '#1a2332', margin: '16px 0 8px' }}>
-            Scratch & Dent Appliance Stores in {stateName}
+            {listing.categoryLabel} {listing.plural} in {stateName}
           </h1>
           <p style={{ color: '#666', fontSize: 16, margin: '0 0 32px' }}>
-            {totalStores} verified stores across {cityEntries.length} cities. Save 30-70% on brand-name appliances.
+            {totalStores} verified {listing.plural} across {cityEntries.length} cities. {listing.metaSavings}
           </p>
 
           {/* Cities grid */}
@@ -87,8 +90,8 @@ export default function StatePage({ params }) {
             ))}
           </div>
 
-          {/* All stores */}
-          <h2 style={{ fontSize: 20, fontWeight: 700, color: '#1a2332', marginBottom: 16 }}>All Stores in {stateName}</h2>
+          {/* All listings */}
+          <h2 style={{ fontSize: 20, fontWeight: 700, color: '#1a2332', marginBottom: 16 }}>All {listing.plural} in {stateName}</h2>
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))', gap: 16, marginBottom: 40 }}>
             {stores.filter(s => s.s === stateCode).sort((a, b) => b.v - a.v).map(store => (
               <Link key={store.i} href={getStorePath(store)}
@@ -115,7 +118,7 @@ export default function StatePage({ params }) {
           {/* Back link */}
           <div style={{ textAlign: 'center', padding: '24px 0 48px' }}>
             <Link href="/" style={{ color: '#2563eb', textDecoration: 'none', fontWeight: 600 }}>
-              &larr; Back to All Stores
+              &larr; Back to All {listing.plural}
             </Link>
           </div>
         </div>
