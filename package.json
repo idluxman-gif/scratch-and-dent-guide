@@ -5,7 +5,10 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "seo:submit": "node scripts/seo-submit.js --all",
+    "seo:submit:google": "node scripts/seo-submit.js --google",
+    "seo:submit:bing": "node scripts/seo-submit.js --bing"
   },
   "dependencies": {
     "next": "^14.2.0",
