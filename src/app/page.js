@@ -1,30 +1,48 @@
 "use client";
 import { useState, useRef, useMemo } from "react";
 import Link from "next/link";
+import { MapPin, Phone, Search } from "lucide-react";
 import { stores as D, getStorePath, getStatePath, getCityPath, stateNames, getStateSlug } from "@/data/stores";
 
 const S = D.map(d=>({id:d.i,name:d.n,city:d.c,state:d.s,address:d.a,phone:d.p,website:d.w,rating:d.r,reviews:d.v,price:d.pr}));
 const AC=[...new Set(S.map(s=>s.city))].sort();
 const AS=[...new Set(S.map(s=>s.state))].sort();
 
+// Precompute top-rated (most reviews) store ID per city+state
+const _topMap={};
+S.forEach(s=>{const k=s.city+"|"+s.state;if(!_topMap[k]||s.reviews>_topMap[k].reviews)_topMap[k]=s;});
+const topRatedIds=new Set(Object.values(_topMap).map(s=>s.id));
+
+const ApplianceIcon=()=>(
+  <svg width="32" height="46" viewBox="0 0 36 52" fill="none">
+    <rect x="2" y="2" width="32" height="48" rx="4" stroke="#10B981" strokeWidth="2.5" fill="none"/>
+    <line x1="2" y1="20" x2="34" y2="20" stroke="#10B981" strokeWidth="2"/>
+    <rect x="9" y="11" width="9" height="2.5" rx="1.25" fill="#10B981"/>
+    <rect x="9" y="33" width="9" height="2.5" rx="1.25" fill="#10B981"/>
+  </svg>
+);
+
 const Star=({f})=><svg width={13} height={13} viewBox="0 0 24 24" fill={f?"#F59E0B":"none"} stroke="#F59E0B" strokeWidth="2"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>;
 const Stars=({r,n})=><div style={{display:"flex",alignItems:"center",gap:2}}>{[1,2,3,4,5].map(i=><Star key={i} f={i<=Math.round(r)}/>)}<span style={{fontSize:11,color:"#94A3B8",marginLeft:3}}>{r>0?r:"New"}{n>0?` (${n})`:""}</span></div>;
 const PT=({p})=>{const m={"$":["Budget","#10B981"],"$$":["Mid-Range","#3B82F6"],"$$$":["Premium","#8B5CF6"]};const[l,c]=m[p]||m["$$"];return <span style={{padding:"2px 8px",borderRadius:5,fontSize:10,fontWeight:600,color:c,background:c+"15"}}>{p} {l}</span>;};
 
-const Card=({s,onClick})=>(
+const Card=({s,onClick})=>{
+const isTop=topRatedIds.has(s.id);
+return(
 <Link href={getStorePath({n:s.name,c:s.city,s:s.state})} style={{textDecoration:"none",color:"inherit"}} onClick={(e)=>{e.preventDefault();onClick(s);}}><div style={{background:"#fff",borderRadius:12,border:"1px solid #E2E8F0",cursor:"pointer",transition:"all .2s",overflow:"hidden"}}
 onMouseEnter={e=>{e.currentTarget.style.transform="translateY(-2px)";e.currentTarget.style.boxShadow="0 8px 24px rgba(0,0,0,.07)";}}
 onMouseLeave={e=>{e.currentTarget.style.transform="none";e.currentTarget.style.boxShadow="none";}}>
-<div style={{height:100,background:"linear-gradient(135deg,#0F172A,#1E293B)",display:"flex",alignItems:"center",justifyContent:"center",position:"relative"}}>
-<span style={{fontSize:26,opacity:.1}}>🏭</span>
+<div style={{height:100,background:"#F0FDF4",display:"flex",alignItems:"center",justifyContent:"center",position:"relative"}}>
+<ApplianceIcon/>
 <div style={{position:"absolute",top:8,right:8}}><PT p={s.price}/></div>
+{isTop&&<div style={{position:"absolute",top:8,left:8,background:"#10B981",color:"#fff",padding:"2px 7px",borderRadius:10,fontSize:10,fontWeight:700}}>★ Top Rated</div>}
 </div>
-<div style={{padding:"10px 12px 13px"}}>
-<h3 style={{margin:0,fontSize:13,fontWeight:700,color:"#0F172A",lineHeight:1.3,overflow:"hidden",textOverflow:"ellipsis",whiteSpace:"nowrap"}}>{s.name}</h3>
-<div style={{marginTop:3,color:"#64748B",fontSize:11}}>📍 {s.city}, {s.state}</div>
-<div style={{marginTop:4}}><Stars r={s.rating} n={s.reviews}/></div>
-{s.phone&&<div style={{marginTop:4,fontSize:10,color:"#94A3B8"}}>📞 {s.phone}</div>}
-</div></div></Link>);
+<div style={{padding:"14px 16px 18px"}}>
+<h3 style={{margin:0,fontSize:16,fontWeight:700,color:"#0F172A",lineHeight:1.3,overflow:"hidden",textOverflow:"ellipsis",whiteSpace:"nowrap"}}>{s.name}</h3>
+<div style={{marginTop:4,color:"#64748B",fontSize:13,display:"flex",alignItems:"center",gap:4}}><MapPin size={12} color="#64748B"/>{s.city}, {s.state}</div>
+<div style={{marginTop:5}}><Stars r={s.rating} n={s.reviews}/></div>
+{s.phone&&<div style={{marginTop:5,fontSize:12,color:"#94A3B8",display:"flex",alignItems:"center",gap:4}}><Phone size={12} color="#94A3B8"/>{s.phone}</div>}
+</div></div></Link>);};
 
 const Modal=({s,onClose})=>{
 const[sf,setSf]=useState(false);
@@ -65,7 +83,6 @@ const clr=()=>{setFS("");setFC("");setFP("");setQ("");setPg(1);};
 const ss={padding:"8px 10px",borderRadius:7,border:"1px solid #E2E8F0",fontSize:12,color:"#0F172A",background:"#fff",cursor:"pointer",outline:"none",minWidth:110};
 
 return(<div style={{minHeight:"100vh",background:"#F9FAFB",fontFamily:"'DM Sans',system-ui,sans-serif"}}>
-<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800;900&display=swap" rel="stylesheet"/>
 <nav style={{background:"#0F172A",padding:"10px 20px",display:"flex",justifyContent:"space-between",alignItems:"center",position:"sticky",top:0,zIndex:100}}>
 <div style={{cursor:"pointer"}} onClick={clr}><span style={{fontSize:15,fontWeight:800,color:"#fff"}}>🏷️ Scratch<span style={{color:"#10B981"}}>&</span>Dent<span style={{color:"#94A3B8",fontWeight:400}}>Guide</span></span></div>
 <div style={{display:"flex",gap:14,fontSize:12}}><a href="#" onClick={e=>{e.preventDefault();rr.current?.scrollIntoView({behavior:"smooth"});}} style={{color:"rgba(255,255,255,.6)",textDecoration:"none"}}>Browse</a><a href="/blog" style={{color:"rgba(255,255,255,.6)",textDecoration:"none"}}>Blog</a><a href="#about" style={{color:"rgba(255,255,255,.6)",textDecoration:"none"}}>About</a></div>
@@ -79,7 +96,7 @@ return(<div style={{minHeight:"100vh",background:"#F9FAFB",fontFamily:"'DM Sans'
 <p style={{fontSize:14,color:"rgba(255,255,255,.45)",maxWidth:400,margin:"0 auto 20px",lineHeight:1.6}}>{S.length}+ verified stores across {AS.length} states.</p>
 <div style={{display:"flex",maxWidth:440,margin:"0 auto",background:"#fff",borderRadius:12,padding:3,boxShadow:"0 12px 40px rgba(0,0,0,.25)"}}>
 <input value={q} onChange={e=>{setQ(e.target.value);setPg(1);}} onKeyDown={e=>{if(e.key==="Enter")rr.current?.scrollIntoView({behavior:"smooth"});}} placeholder="City, state, or store..." style={{flex:1,border:"none",outline:"none",fontSize:14,padding:"10px 12px",color:"#0F172A",borderRadius:9}}/>
-<button onClick={()=>rr.current?.scrollIntoView({behavior:"smooth"})} style={{padding:"10px 18px",background:"#0F172A",color:"#fff",border:"none",borderRadius:9,fontSize:13,fontWeight:700,cursor:"pointer"}}>Search</button>
+<button onClick={()=>rr.current?.scrollIntoView({behavior:"smooth"})} style={{padding:"10px 18px",background:"#0F172A",color:"#fff",border:"none",borderRadius:9,fontSize:13,fontWeight:700,cursor:"pointer",display:"flex",alignItems:"center",gap:6}}><Search size={14} color="#fff"/>Search</button>
 </div>
 <div style={{marginTop:12,display:"flex",flexWrap:"wrap",justifyContent:"center",gap:4}}>
 {ciSt.slice(0,6).map(c=><button key={c.city+c.state} onClick={()=>{setFS(c.state);setFC(c.city);setPg(1);setTimeout(()=>rr.current?.scrollIntoView({behavior:"smooth"}),50);}} style={{fontSize:10,color:"rgba(255,255,255,.45)",background:"rgba(255,255,255,.07)",border:"none",padding:"2px 8px",borderRadius:5,cursor:"pointer"}}>{c.city}, {c.state}</button>)}
