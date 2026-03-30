@@ -578,6 +578,217 @@ export const articleContent = {
 
 <h2>Start Your Search</h2>
 <p>The best deal on your next appliance is probably closer than you think &mdash; you just need to know where to look. Start with our <a href="/">directory of 728+ verified stores across all 50 states</a>, expand with Google Maps, and use the evaluation steps above to narrow your list to the stores worth visiting. Five minutes of research can save you hundreds or thousands of dollars.</p>`,
+  "best-scratch-and-dent-stores-dallas": `<p>Dallas is one of the most appliance-hungry cities in America, and that creates a robust market for scratch and dent deals. The DFW metroplex&rsquo;s relentless population growth, massive construction activity, and status as a major freight hub all combine to keep local S&amp;D stores stocked with discounted brand-new appliances. If you know where to look, you can save 30% to 70% on the same refrigerators, washers, dryers, and ranges you&rsquo;d pay full price for at a big-box retailer down the street.</p>
+<p>Here&rsquo;s your guide to shopping scratch and dent appliances in Dallas.</p>
+
+<h2>Why Dallas Is a Strong S&amp;D Market</h2>
+<p>Several factors make DFW one of the top cities in the country for discount appliance shopping.</p>
+<p><strong>Explosive population growth.</strong> The Dallas-Fort Worth metroplex has been one of the fastest-growing major metros in the U.S. for years, consistently adding hundreds of thousands of new residents annually. Every new household represents an appliance purchase &mdash; and a portion of those purchases generates the overstock, returns, and shipping-damaged units that flow into S&amp;D channels.</p>
+<p><strong>Massive new construction pipeline.</strong> From master-planned communities in Frisco, McKinney, and Prosper to urban high-rises in Uptown and infill projects in Oak Cliff, DFW builds continuously. Builders and property developers are among the biggest scratch and dent buyers in any market, and their volume purchases keep dealers stocked and competitive.</p>
+<p><strong>Major freight and distribution hub.</strong> Dallas-Fort Worth sits at the intersection of several major Interstate corridors and hosts large distribution centers for Samsung, LG, Whirlpool, and other appliance brands. Units sustaining cosmetic damage during distribution are offloaded to local S&amp;D dealers rather than reshipped across the country.</p>
+<p>New to scratch and dent shopping? Our <a href="/blog/are-scratch-and-dent-appliances-worth-it">complete guide</a> covers what these appliances are, how warranties work, and why the savings are real.</p>
+
+<h2>Shopping the DFW Metro: Where to Look</h2>
+<p>The DFW metroplex is enormous &mdash; over 9,000 square miles &mdash; so knowing the geography before you drive saves time and frustration.</p>
+<p><strong>The I-35E and I-35W corridors</strong> are the spine of the Dallas and Fort Worth markets respectively. Appliance dealers cluster along these north-south routes, making them efficient to navigate if you want to visit multiple stores in one trip.</p>
+<p><strong>North Dallas and the northern suburbs</strong> &mdash; Plano, Richardson, Garland, and Allen &mdash; have a mix of established S&amp;D dealers serving dense residential neighborhoods and newer suburbs. Inventory here tends toward contemporary finishes and premium brands.</p>
+<p><strong>Fort Worth and the western suburbs</strong> including Arlington, Grand Prairie, and Irving have their own set of appliance dealers that are often overlooked by Dallas shoppers. If you&rsquo;re not finding the right unit in Dallas proper, it&rsquo;s worth making the drive west.</p>
+<p><strong>South Dallas and Mesquite</strong> have more warehouse-style operations with larger inventory and no-frills pricing &mdash; good hunting ground for budget shoppers who care more about function than aesthetics.</p>
+
+<h2>Tips for Shopping S&amp;D in Dallas</h2>
+<p><strong>Call ahead.</strong> Scratch and dent inventory rotates fast. A quick call confirms what types of appliances the store has in stock, saves you from driving across the metroplex for nothing, and lets you ask about incoming shipments.</p>
+<p><strong>Shop mid-week.</strong> Dallas S&amp;D stores are busiest on weekends. Visiting Tuesday through Thursday gives you better selection, calmer store conditions, and more staff attention. New inventory often arrives Monday through Wednesday.</p>
+<p><strong>Measure before you go.</strong> DFW homes range from 1950s ranch houses with tight kitchens to sprawling new-build open-concept layouts. Standard appliance dimensions don&rsquo;t fit every space &mdash; bring exact measurements including door swing clearances.</p>
+<p><strong>Inspect thoroughly.</strong> Check all exterior surfaces, test every function, verify the warranty, and confirm the return policy. Our <a href="/blog/how-to-inspect-scratch-and-dent-appliances">step-by-step inspection checklist</a> walks you through the process.</p>
+<p><strong>Bundle to negotiate.</strong> Independent Dallas S&amp;D dealers are accustomed to volume purchases from builders and landlords. If you&rsquo;re buying multiple appliances, always ask for a package discount &mdash; most dealers will work with you.</p>
+<p><strong>Ask about delivery.</strong> Some DFW stores offer delivery across the metroplex; others are pickup-only. Confirm logistics before paying, especially for large appliances.</p>
+
+<h2>Texas Warranty Considerations</h2>
+<p>Texas follows standard UCC consumer protection law, so warranty coverage depends on the manufacturer and retailer rather than state-specific appliance regulations. Most scratch and dent appliances are new and qualify for the full manufacturer&rsquo;s warranty &mdash; Samsung, LG, Whirlpool, and GE all honor their standard coverage on cosmetically imperfect units sold through authorized channels. Always confirm warranty eligibility with the retailer before purchasing, and get the terms in writing.</p>
+
+<h2>Find Verified Stores in Dallas</h2>
+<p>We&rsquo;ve verified scratch and dent appliance stores throughout Texas, including the greater DFW metroplex. Browse the full list on our <a href="/stores/texas">Texas stores page</a> &mdash; complete with addresses, phone numbers, and store details.</p>
+<p>Dallas&rsquo;s massive population, constant construction, and freight infrastructure make it one of the best cities in the South for scratch and dent deals. Start with our <a href="/">directory of 728+ verified stores across 51 states</a> and find the savings waiting in your corner of DFW.</p>`,
+
+  "best-scratch-and-dent-stores-chicago": `<p>Chicago is one of the best cities in the Midwest for scratch and dent appliance shopping &mdash; and most residents have never thought to look. The city&rsquo;s role as a national freight crossroads, combined with a massive urban housing market and active renovation scene, creates a steady supply of discounted brand-new appliances flowing through local S&amp;D dealers. Whether you&rsquo;re outfitting a Wicker Park condo, upgrading a Pilsen two-flat, or furnishing a Naperville new build, scratch and dent stores in the Chicago area can save you 30% to 70% compared to full retail.</p>
+
+<h2>Why Chicago&rsquo;s S&amp;D Market Is Strong</h2>
+<p><strong>America&rsquo;s freight crossroads.</strong> Chicago is the most important freight hub in the country. Virtually every overland shipping route crosses Illinois, and the Chicago metro is home to enormous distribution centers for Samsung, LG, Whirlpool, GE, and Frigidaire. Units that sustain cosmetic damage in transit through Chicago-area facilities are offloaded to local S&amp;D dealers, giving the market a constant supply of fresh inventory.</p>
+<p><strong>Dense and diverse housing stock.</strong> Chicago&rsquo;s neighborhoods range from six-flat apartment buildings built in the 1920s to brand-new luxury high-rises in the West Loop. This variety drives constant appliance turnover &mdash; landlords upgrading older units, condo associations replacing aging appliances, gut rehabs needing complete outfitting. That volume of purchasing generates the overstock and returns that feed discount channels.</p>
+<p><strong>Active renovation market.</strong> Chicago&rsquo;s residential real estate has seen consistent renovation activity across neighborhoods like Logan Square, Bridgeport, Bronzeville, and the near northwest side. Renovators are natural scratch and dent buyers &mdash; they understand value, care about function over cosmetics, and often buy multiple appliances at once.</p>
+<p>If you&rsquo;re new to S&amp;D shopping, our <a href="/blog/are-scratch-and-dent-appliances-worth-it">complete guide</a> explains the basics: what the damage looks like, how warranties work, and why the savings are legitimate.</p>
+
+<h2>Shopping Chicagoland: Where to Look</h2>
+<p>The Chicago metro stretches across Cook County and into the collar counties, and S&amp;D stores are distributed throughout. Planning your route around specific corridors saves time.</p>
+<p><strong>The Northwest Side and suburbs along I-90/I-94</strong> have an established cluster of appliance dealers serving dense residential neighborhoods and inner-ring suburbs like Des Plaines, Skokie, and Niles.</p>
+<p><strong>The southwest suburbs &mdash; Cicero, Berwyn, and Bridgeview</strong> &mdash; have warehouse-style dealers with larger inventory and more aggressive pricing. These areas are worth visiting if you&rsquo;re flexible on brand and looking for the deepest possible discount.</p>
+<p><strong>The I-55 and I-294 corridors</strong> connecting the south and west suburbs have several dealers serving Naperville, Bolingbrook, and the broader DuPage County market. Inventory here tends toward contemporary finishes popular with newer suburban homes.</p>
+<p><strong>The south suburbs along I-57 and US-30</strong> serve communities like Tinley Park, Orland Park, and Joliet with their own set of S&amp;D dealers.</p>
+
+<h2>Tips for Shopping S&amp;D in Chicago</h2>
+<p><strong>Plan around traffic.</strong> Chicago traffic is serious. Use Waze or Google Maps to plan your route and visit during off-peak hours. Mid-week mornings are the best combination of light traffic and fresh inventory.</p>
+<p><strong>Call before you drive.</strong> Chicago S&amp;D dealers often get multiple shipments per week. A quick call confirms what they have in stock and whether you&rsquo;ll be wasting a trip on I-290 in traffic.</p>
+<p><strong>Measure your space precisely.</strong> Chicago&rsquo;s older housing stock is notoriously tight. Pre-war kitchens in two-flats and greystone buildings often have limited depth and width for appliances. Know your exact dimensions &mdash; width, height, depth, and door clearance &mdash; before you go.</p>
+<p><strong>Inspect in person.</strong> Never buy S&amp;D blind. Inspect every surface, test all functions, and verify warranty terms. See our <a href="/blog/how-to-inspect-scratch-and-dent-appliances">full inspection guide</a> for a step-by-step checklist.</p>
+<p><strong>Bundle purchases for better pricing.</strong> Landlords and investors buy in volume from Chicago S&amp;D stores regularly &mdash; dealers are comfortable negotiating multi-unit packages. If you&rsquo;re buying two or more appliances, ask for a bundle price.</p>
+
+<h2>Illinois Warranty Considerations</h2>
+<p>Illinois consumer protection law follows standard UCC provisions. Warranty coverage depends on the manufacturer and retailer. Since scratch and dent appliances are new and unused, most qualify for the full manufacturer&rsquo;s warranty. Always confirm coverage in writing before purchasing and register the product with the manufacturer immediately after delivery.</p>
+
+<h2>Find Verified Stores in Chicago</h2>
+<p>We&rsquo;ve verified scratch and dent appliance stores throughout Illinois, including the greater Chicago metro. Browse the full directory on our <a href="/stores/illinois">Illinois stores page</a>.</p>
+<p>Chicago&rsquo;s freight infrastructure, dense housing market, and active renovation scene make it one of the top scratch and dent markets in the country. Browse our <a href="/">directory of 728+ verified stores across 51 states</a> to find dealers near you today.</p>`,
+
+  "best-scratch-and-dent-stores-miami": `<p>Miami&rsquo;s real estate market never stops, and that constant churn of condos, renovations, and new construction creates one of the most active scratch and dent appliance markets in Florida. Whether you&rsquo;re outfitting a Brickell high-rise unit, renovating a Coral Gables home, or equipping a rental property in Hialeah, S&amp;D dealers in the Miami metro can save you 30% to 70% on brand-new appliances from top brands.</p>
+<p>Here&rsquo;s what to know before you start shopping.</p>
+
+<h2>Why Miami&rsquo;s S&amp;D Market Stands Out</h2>
+<p><strong>Non-stop real estate activity.</strong> The Miami metro &mdash; Miami-Dade, Broward, and Palm Beach counties &mdash; has one of the most active real estate markets in the country. Pre-construction condo sales, luxury renovations, Airbnb conversions, and a constant stream of relocations from the Northeast and Latin America all drive appliance demand that keeps S&amp;D channels well-fed.</p>
+<p><strong>Port of Miami logistics.</strong> The Port of Miami is one of the busiest cargo ports in the U.S. Appliance imports entering through South Florida are distributed across the region, and units that sustain cosmetic damage during port handling or local distribution end up at area S&amp;D dealers. Miami&rsquo;s position as an import gateway gives local stores access to fresh inventory year-round.</p>
+<p><strong>Investment and rental property volume.</strong> Miami has an exceptionally high concentration of investment properties, short-term rentals, and rental units. Property investors are some of the savviest appliance buyers in any market &mdash; they buy on function, not cosmetics, and they buy in volume. This demand keeps competition among S&amp;D dealers healthy and prices competitive.</p>
+<p>New to scratch and dent shopping? Our <a href="/blog/are-scratch-and-dent-appliances-worth-it">complete guide</a> explains how it works and what kind of savings to expect.</p>
+
+<h2>Shopping the Miami Metro: Where to Look</h2>
+<p>The South Florida tri-county area is spread out, and S&amp;D stores are distributed across it. Knowing the geography helps you plan efficient shopping trips.</p>
+<p><strong>The I-95 and US-1 corridors</strong> running north-south through Miami-Dade and into Broward County have a concentration of appliance dealers accessible from most parts of the metro.</p>
+<p><strong>Hialeah and the western suburbs</strong> including Doral and Medley &mdash; Miami&rsquo;s industrial and warehouse belt &mdash; are where you&rsquo;ll find many of the larger S&amp;D operations. Lower commercial rents in these areas typically mean lower prices for shoppers.</p>
+<p><strong>Fort Lauderdale and Broward County</strong> have their own set of dealers serving one of the densest rental markets in Florida. If you&rsquo;re not finding the right unit in Miami-Dade, Broward is worth the drive north on I-95.</p>
+<p><strong>Homestead and South Miami-Dade</strong> have dealers serving the growing residential areas south of the city proper.</p>
+
+<h2>Tips for Shopping S&amp;D in Miami</h2>
+<p><strong>Account for Florida humidity.</strong> Miami&rsquo;s climate is intense, and appliances stored in non-climate-controlled spaces can develop gasket or seal issues over time. Inspect door seals on refrigerators and washing machines carefully. Our <a href="/blog/how-to-inspect-scratch-and-dent-appliances">inspection checklist</a> covers everything to check.</p>
+<p><strong>Call ahead &mdash; always.</strong> Miami S&amp;D inventory moves fast, especially for stainless steel finishes popular in condo renovations. A quick call confirms availability before you fight traffic on I-95 or the Palmetto.</p>
+<p><strong>Verify measurements for condos.</strong> Miami high-rise units often have tight appliance bays with specific dimension requirements. Measure width, height, depth, and door swing clearance before shopping &mdash; standard dimensions don&rsquo;t fit every unit.</p>
+<p><strong>Ask about delivery to condos.</strong> Condo delivery involves elevators, building rules, and scheduling with management offices. Confirm that the S&amp;D dealer delivers to high-rise buildings and ask about any associated fees or restrictions.</p>
+<p><strong>Negotiate on volume.</strong> If you&rsquo;re buying for a rental property or multiple units, dealers will negotiate. Miami&rsquo;s investment property market means these conversations happen regularly.</p>
+
+<h2>Florida Warranty Considerations</h2>
+<p>Florida has strong consumer protection laws, including provisions against deceptive trade practices, but appliance warranty coverage still depends primarily on the manufacturer and retailer. Most scratch and dent units are new and qualify for the full manufacturer warranty. Confirm this in writing before purchasing &mdash; reputable South Florida dealers will have no hesitation providing warranty documentation.</p>
+
+<h2>Find Verified Stores in Miami</h2>
+<p>We&rsquo;ve verified scratch and dent appliance stores throughout Florida, including the Miami metro area. Browse the complete list on our <a href="/stores/florida">Florida stores page</a>.</p>
+<p>Miami&rsquo;s real estate activity, import infrastructure, and investment property culture make it one of the top scratch and dent markets in the Southeast. Browse our <a href="/">directory of 728+ verified stores across 51 states</a> to find dealers near you.</p>`,
+
+  "best-scratch-and-dent-stores-seattle": `<p>Seattle&rsquo;s booming tech economy and relentless housing demand have created a surprisingly strong scratch and dent appliance market in the Pacific Northwest. The Puget Sound region&rsquo;s high household incomes, active renovation culture, and steady stream of tech-worker relocations all drive appliance purchasing &mdash; and a healthy portion of that volume ends up flowing into discount channels. If you&rsquo;re buying a refrigerator, washer, dryer, or range in Greater Seattle, S&amp;D stores can save you 30% to 70% off retail.</p>
+
+<h2>Why Seattle Is a Good S&amp;D Market</h2>
+<p><strong>High-income housing demand.</strong> Seattle&rsquo;s tech economy &mdash; anchored by Amazon, Microsoft, Boeing, and a dense startup ecosystem &mdash; has driven housing prices and renovation activity to levels that rival coastal metros. Homeowners here are willing to invest in quality appliances, and the premium segment&rsquo;s volume generates proportional S&amp;D overflow. That means Seattle-area dealers often stock higher-end brands at discount prices.</p>
+<p><strong>Port of Seattle logistics.</strong> The Port of Seattle is a major West Coast import gateway for Asian-manufactured appliances from Samsung, LG, and other brands. Units sustaining damage during port handling or regional distribution are rerouted to local S&amp;D dealers, giving the market consistent access to fresh inventory.</p>
+<p><strong>Active condo and ADU market.</strong> Seattle&rsquo;s housing crisis has driven a wave of ADU construction, basement conversions, and condo development. Each new living unit needs appliances, and the volume of smaller-format appliance purchases creates steady S&amp;D demand for compact refrigerators, apartment-size washers, and countertop ranges.</p>
+<p>If you&rsquo;re new to scratch and dent shopping, our <a href="/blog/are-scratch-and-dent-appliances-worth-it">complete guide</a> covers the fundamentals.</p>
+
+<h2>Shopping the Seattle Metro: Where to Look</h2>
+<p>Greater Seattle spans a wide geography constrained by water on multiple sides, and S&amp;D stores are distributed accordingly.</p>
+<p><strong>The I-5 corridor</strong> running north-south through the metro is the primary axis. Most appliance dealers &mdash; discount and full-price alike &mdash; are clustered within a few miles of I-5, accessible from Seattle proper and communities from Everett in the north to Tacoma in the south.</p>
+<p><strong>The Eastside &mdash; Bellevue, Redmond, Kirkland, and Bothell</strong> &mdash; serves the dense tech-worker residential market east of Lake Washington. Inventory here often includes higher-end brands and contemporary finishes reflecting the area&rsquo;s demographics.</p>
+<p><strong>Tacoma and Pierce County</strong> have their own S&amp;D dealers that are often less crowded and more aggressively priced than Seattle-area stores. Worth considering if you&rsquo;re flexible on the commute.</p>
+<p><strong>South King County &mdash; Renton, Kent, and Federal Way</strong> &mdash; has warehouse-style dealers with solid mid-range inventory serving the area&rsquo;s large renter and homeowner population.</p>
+
+<h2>Tips for Shopping S&amp;D in Seattle</h2>
+<p><strong>Check for moisture-related issues.</strong> Seattle&rsquo;s wet climate means appliances stored in non-climate-controlled spaces could be exposed to elevated humidity. Check gaskets, seals, and any exterior metal surfaces for corrosion or warping. Our <a href="/blog/how-to-inspect-scratch-and-dent-appliances">inspection checklist</a> covers what to look for.</p>
+<p><strong>Call ahead.</strong> Seattle-area S&amp;D dealers vary widely in inventory size and specialty. A quick call confirms they have the type of appliance you need before you navigate traffic on I-5 or cross the floating bridges.</p>
+<p><strong>Measure for Seattle homes.</strong> Seattle has a mix of older craftsman-style homes with compact kitchens, mid-century ramblers, and modern condos with precise appliance bay dimensions. Measure your space before shopping.</p>
+<p><strong>Ask about ADU-friendly options.</strong> If you&rsquo;re outfitting a backyard cottage or basement ADU, ask dealers specifically about compact or counter-depth models. Seattle&rsquo;s ADU boom means local dealers often carry a wider-than-average selection of smaller-format units.</p>
+<p><strong>Negotiate on bundles.</strong> Seattle has a strong DIY renovation culture and many property owners shop S&amp;D in volume. Dealers are accustomed to package deals.</p>
+
+<h2>Washington Warranty Considerations</h2>
+<p>Washington State has strong consumer protection laws. Standard scratch and dent appliances are new and typically qualify for the full manufacturer&rsquo;s warranty. Always confirm warranty terms in writing with the retailer before purchasing and register the product with the manufacturer after delivery.</p>
+
+<h2>Find Verified Stores in Seattle</h2>
+<p>We&rsquo;ve verified scratch and dent appliance stores throughout Washington State, including the greater Seattle-Tacoma metro. Browse the full list on our <a href="/stores/washington">Washington stores page</a>.</p>
+<p>Seattle&rsquo;s premium housing demand, port infrastructure, and renovation-active culture make it one of the Pacific Northwest&rsquo;s best scratch and dent markets. Browse our <a href="/">directory of 728+ verified stores across 51 states</a> to find dealers near you.</p>`,
+
+  "best-scratch-and-dent-stores-denver": `<p>Denver&rsquo;s Rocky Mountain growth story has made it one of the most dynamic housing markets in the Mountain West &mdash; and that has quietly created an excellent scratch and dent appliance market. The metro&rsquo;s rapid population growth, high rate of new construction, and strong home renovation culture all generate a steady supply of discounted brand-new appliances. If you&rsquo;re shopping for a refrigerator, washer, dryer, or range in the Denver metro, S&amp;D stores can save you 30% to 70% off retail prices.</p>
+
+<h2>Why Denver Has a Strong S&amp;D Market</h2>
+<p><strong>Rapid population growth.</strong> Metro Denver has been one of the fastest-growing large metros in the Mountain West, adding hundreds of thousands of residents over the past decade. New residents arriving from California, the Midwest, and the coasts need to fully furnish new homes &mdash; and the volume of retail appliance purchasing they generate creates proportional S&amp;D overflow.</p>
+<p><strong>Active construction in the Front Range.</strong> From Thornton and Brighton in the north to Littleton and Aurora in the south, the Front Range communities surrounding Denver have seen sustained residential construction. Builder-grade appliance purchases in new communities generate returns, overstock, and damage claims that feed local discount channels.</p>
+<p><strong>High renovation activity.</strong> Denver&rsquo;s mature inner neighborhoods &mdash; Capitol Hill, Washington Park, Baker, and the Highlands &mdash; have seen significant renovation activity as buyers update older housing stock. Renovators are natural scratch and dent buyers, prioritizing performance and value over cosmetics.</p>
+<p>New to S&amp;D shopping? Our <a href="/blog/are-scratch-and-dent-appliances-worth-it">complete guide</a> explains how the market works and what kinds of savings to expect.</p>
+
+<h2>Shopping the Denver Metro: Where to Look</h2>
+<p>The Denver metro follows a north-south pattern along the Front Range, making it relatively efficient to navigate for appliance shopping.</p>
+<p><strong>The I-25 corridor</strong> is the main axis. Most Denver-area appliance dealers &mdash; discount and full-price &mdash; are accessible from I-25 between Fort Collins to the north and Pueblo to the south. For the core metro, focus on the stretch from Thornton through Denver and south to Littleton.</p>
+<p><strong>Aurora and the eastern suburbs</strong> have a mix of S&amp;D operations serving one of the metro&rsquo;s most diverse and densely populated areas. These stores tend to have solid mid-range inventory and competitive pricing.</p>
+<p><strong>Lakewood and the western suburbs</strong> serve the growing communities west of Denver toward the foothills. Inventory here often reflects the higher-end tastes of the Jeffco market.</p>
+<p><strong>Englewood and South Metro</strong> dealers serve Littleton, Centennial, and the growing communities around the Denver Tech Center.</p>
+
+<h2>Tips for Shopping S&amp;D in Denver</h2>
+<p><strong>Account for altitude.</strong> Denver&rsquo;s altitude (5,280 feet) is occasionally relevant for gas appliance combustion and some refrigerant-based systems. When buying a gas range or refrigerator, ask whether the unit requires altitude adjustment and whether the store or manufacturer can assist.</p>
+<p><strong>Call ahead.</strong> Denver S&amp;D inventory moves quickly, especially for popular mid-range brands. A call before you drive out to Thornton or Aurora confirms they have what you need.</p>
+<p><strong>Shop mid-week.</strong> Denver S&amp;D stores are busiest on weekends. Visiting Tuesday through Thursday gives you first access to inventory that arrived earlier in the week and a less crowded shopping experience.</p>
+<p><strong>Inspect carefully.</strong> Check all exterior surfaces, test all functions, verify the warranty, and ask about the return policy. See our <a href="/blog/how-to-inspect-scratch-and-dent-appliances">full checklist</a> for what to examine.</p>
+<p><strong>Bundle for savings.</strong> Denver has a strong landlord and investor community that buys from S&amp;D stores in volume. If you&rsquo;re purchasing two or more appliances, ask for a package price &mdash; most dealers will accommodate.</p>
+
+<h2>Colorado Warranty Considerations</h2>
+<p>Colorado follows standard UCC consumer protection provisions for appliance purchases. Warranty coverage comes from the manufacturer and retailer. Since scratch and dent appliances are new and unused, most qualify for the full manufacturer&rsquo;s warranty. Always confirm coverage in writing before buying and register the product with the manufacturer after delivery.</p>
+
+<h2>Find Verified Stores in Denver</h2>
+<p>We&rsquo;ve verified scratch and dent appliance stores throughout Colorado, including the greater Denver metro. Browse the full list on our <a href="/stores/colorado">Colorado stores page</a>.</p>
+<p>Denver&rsquo;s growth, renovation culture, and active housing market make it one of the Mountain West&rsquo;s best scratch and dent markets. Browse our <a href="/">directory of 728+ verified stores across 51 states</a> to find dealers near you.</p>`,
+
+  "best-scratch-and-dent-stores-boston": `<p>Boston might not be the first city that comes to mind for bargain appliance shopping, but the Greater Boston area has a surprisingly competitive scratch and dent market. The region&rsquo;s dense housing stock, high turnover in student-heavy neighborhoods, active renovation culture, and status as a major Northeast freight corridor all contribute to a steady supply of discounted brand-new appliances. If you can save 30% to 70% on a refrigerator, washer, or dryer, the famously expensive Boston cost of living stings a little less.</p>
+
+<h2>Why Boston Has a Viable S&amp;D Market</h2>
+<p><strong>Dense, aging housing stock.</strong> Greater Boston has one of the oldest and densest housing inventories in the country. Victorian triple-deckers, mid-century ranch homes, and 1980s condos all need appliance upgrades regularly. This constant replacement cycle keeps S&amp;D dealers stocked with a range of unit sizes, including the compact and apartment-friendly appliances common in Boston-area homes.</p>
+<p><strong>High housing turnover.</strong> Boston&rsquo;s massive university and hospital ecosystem creates enormous annual housing turnover. When units change hands &mdash; especially in Cambridge, Allston, Brighton, and Somerville &mdash; landlords often upgrade appliances. The volume of these purchases generates returns and overstock that finds its way to S&amp;D channels.</p>
+<p><strong>Northeast distribution corridor.</strong> Massachusetts sits in one of the densest freight corridors in the country. Appliance distribution centers serving New England process significant volume, and units sustaining cosmetic damage are routed to local S&amp;D dealers rather than returned to origin.</p>
+<p>New to scratch and dent? Our <a href="/blog/are-scratch-and-dent-appliances-worth-it">complete guide</a> covers what the damage looks like, how warranties work, and why the savings are legitimate.</p>
+
+<h2>Shopping Greater Boston: Where to Look</h2>
+<p>Boston&rsquo;s geography &mdash; hemmed in by water, surrounded by dense suburbs &mdash; means S&amp;D stores are distributed across several distinct corridors.</p>
+<p><strong>The I-93 and I-95/Rte. 128 ring</strong> defines the primary shopping zone. Most Greater Boston appliance dealers are accessible from these routes, whether you&rsquo;re coming from the North Shore, South Shore, or MetroWest.</p>
+<p><strong>The Route 9 corridor through Natick and Framingham</strong> has an established cluster of appliance retailers, including discount dealers. This area is accessible from both the western suburbs and the city.</p>
+<p><strong>The South Shore &mdash; Quincy, Braintree, and Brockton</strong> &mdash; has dealers serving a dense residential market. Competition here is solid and pricing tends to be competitive.</p>
+<p><strong>The North Shore &mdash; Lynn, Salem, and Peabody</strong> &mdash; has S&amp;D options serving a historically working-class housing market with strong value-consciousness among shoppers.</p>
+<p><strong>Greater Lowell and Lawrence</strong> in the Merrimack Valley have dealers serving the affordable end of the market with consistent inventory.</p>
+
+<h2>Tips for Shopping S&amp;D in Boston</h2>
+<p><strong>Measure for older homes.</strong> Boston&rsquo;s triple-deckers and Victorian-era buildings often have narrow doorways, tight kitchen layouts, and non-standard appliance dimensions. Measure your space with precision &mdash; width, height, depth, and door swing &mdash; before shopping. This is especially important for refrigerators in older kitchens.</p>
+<p><strong>Call ahead.</strong> Boston-area S&amp;D dealers have smaller footprints than their counterparts in sprawling Sun Belt metros. Inventory is more curated, and what&rsquo;s in stock today may be gone tomorrow. A phone call saves a trip on Route 128.</p>
+<p><strong>Plan around commute traffic.</strong> Greater Boston traffic is notoriously difficult. Avoid store visits during rush hours (7-9am, 4-7pm) and visit mid-week for the best combination of light traffic and fresh inventory.</p>
+<p><strong>Inspect with care.</strong> All the standard S&amp;D inspection principles apply &mdash; check surfaces, test functions, verify warranty, confirm return policy. See our <a href="/blog/how-to-inspect-scratch-and-dent-appliances">full checklist</a> for details.</p>
+<p><strong>Ask about stairway delivery.</strong> Many Boston apartments have narrow staircases, low ceilings, and awkward turns. If the dealer offers delivery, confirm they&rsquo;re experienced with Boston-area building quirks before you agree to a delivery fee.</p>
+
+<h2>Massachusetts Warranty Considerations</h2>
+<p>Massachusetts has some of the strongest consumer protection laws in the country, including a robust implied warranty of merchantability. That said, your primary coverage for scratch and dent appliances still comes from the manufacturer warranty. Since these units are new and unused, most qualify for full factory coverage. Always confirm in writing and register your product after delivery.</p>
+
+<h2>Find Verified Stores in Boston</h2>
+<p>We&rsquo;ve verified scratch and dent appliance stores throughout Massachusetts, including the greater Boston metro. Browse the full list on our <a href="/stores/massachusetts">Massachusetts stores page</a>.</p>
+<p>Boston&rsquo;s dense housing market, high renovation activity, and Northeast distribution location make it a stronger S&amp;D market than most residents expect. Browse our <a href="/">directory of 728+ verified stores across 51 states</a> to find dealers near you.</p>`,
+
+  "best-scratch-and-dent-stores-portland": `<p>Portland has a reputation for sustainability and smart consumption &mdash; and buying scratch and dent appliances fits that ethic perfectly. You&rsquo;re getting a brand-new, fully functional appliance that would otherwise sit in a discount pile, at 30% to 70% less than retail. The Portland metro&rsquo;s active renovation culture, strong rental market, and Pacific Northwest distribution infrastructure all make it a worthwhile scratch and dent destination.</p>
+<p>Here&rsquo;s your guide to S&amp;D shopping in Portland.</p>
+
+<h2>Why Portland Has a Solid S&amp;D Market</h2>
+<p><strong>Strong renovation and remodel culture.</strong> Portland homeowners invest heavily in their homes, and the city&rsquo;s eclectic mix of craftsman bungalows, mid-century ranches, and newer infill construction creates steady appliance replacement demand. Renovators are among the best scratch and dent customers &mdash; they care about function and value, not surface cosmetics.</p>
+<p><strong>Active rental market.</strong> Portland&rsquo;s rental market &mdash; particularly in neighborhoods like SE Portland, North Portland, Beaverton, and Gresham &mdash; generates consistent landlord appliance purchasing. Property owners looking to keep operating costs down are natural S&amp;D buyers.</p>
+<p><strong>Pacific Northwest distribution network.</strong> Portland sits at the junction of I-5 and I-84, making it a key logistics node for the Pacific Northwest. Appliance distribution serving Oregon, Washington, and Idaho routes through Portland-area facilities, and units with cosmetic damage stay in the local market. This geographic advantage gives Portland S&amp;D dealers solid access to inventory.</p>
+<p><strong>Oregon&rsquo;s no sales tax.</strong> Oregon is one of five states with no sales tax, which amplifies your scratch and dent savings. On a $1,000 appliance, you&rsquo;re not paying an additional $80-100 in tax on top of the purchase price &mdash; every dollar saved stays saved.</p>
+<p>New to scratch and dent? Our <a href="/blog/are-scratch-and-dent-appliances-worth-it">complete guide</a> explains what these appliances are and how the market works.</p>
+
+<h2>Shopping the Portland Metro: Where to Look</h2>
+<p>The Portland metro is compact compared to Sun Belt cities, which makes it relatively efficient to shop across multiple stores in a single day.</p>
+<p><strong>The I-5 corridor through Portland and into the northern suburbs</strong> is the primary spine. Most appliance dealers are accessible from I-5 or within a short drive of it, serving both the city and communities like Vancouver, WA just across the Columbia River.</p>
+<p><strong>Beaverton and Hillsboro</strong> in Washington County are the tech and industrial heart of the Portland metro. Dealers here serve a growing suburban market and often have competitive pricing driven by the area&rsquo;s high concentration of value-conscious tech workers.</p>
+<p><strong>Gresham and East Multnomah County</strong> have dealers serving working-class neighborhoods and bedroom communities along the I-84 corridor. Pricing here can be especially aggressive.</p>
+<p><strong>Vancouver, Washington</strong> just across the Columbia River is legally a separate market but practically part of the Portland metro. Washington does have sales tax, but Portland shoppers sometimes find strong inventory and pricing at Vancouver-area dealers. Just confirm whether any warranty service would need to occur in Oregon or Washington.</p>
+
+<h2>Tips for Shopping S&amp;D in Portland</h2>
+<p><strong>Check for moisture exposure.</strong> Portland&rsquo;s rainy climate means appliances stored in non-climate-controlled warehouses may be exposed to elevated humidity. Inspect door gaskets and seals carefully, and check exterior surfaces for any corrosion. Our <a href="/blog/how-to-inspect-scratch-and-dent-appliances">inspection checklist</a> walks through everything to examine.</p>
+<p><strong>Call ahead.</strong> Portland-area S&amp;D stores are smaller in scale than those in larger metros. Inventory is curated and moves fast. A quick call confirms availability before you make the drive.</p>
+<p><strong>Measure your space.</strong> Portland&rsquo;s older craftsman and Victorian housing stock often has tight kitchens with non-standard dimensions. Know your exact measurements &mdash; width, height, depth, and door swing clearances &mdash; before you go shopping.</p>
+<p><strong>Shop mid-week.</strong> Portland S&amp;D stores see their heaviest traffic on Saturdays. Visiting Tuesday through Thursday gives you access to freshly arrived inventory and a calmer shopping environment.</p>
+<p><strong>Take advantage of no sales tax.</strong> Oregon&rsquo;s no-sales-tax environment means your savings from buying S&amp;D are your actual savings &mdash; no tax eroding the discount at checkout.</p>
+<p><strong>Bundle if you can.</strong> Portland landlords buy in volume from local S&amp;D stores. If you&rsquo;re purchasing two or more appliances, ask for a package discount &mdash; most dealers will negotiate.</p>
+
+<h2>Oregon Warranty Considerations</h2>
+<p>Oregon has solid consumer protection statutes. Warranty coverage for scratch and dent appliances comes primarily from the manufacturer and retailer. Since these units are new and unused, most qualify for the full manufacturer&rsquo;s warranty. Always confirm coverage in writing and register your product with the manufacturer after delivery.</p>
+
+<h2>Find Verified Stores in Portland</h2>
+<p>We&rsquo;ve verified scratch and dent appliance stores throughout Oregon, including the greater Portland metro. Browse the full list on our <a href="/stores/oregon">Oregon stores page</a>.</p>
+<p>Portland&rsquo;s renovation culture, active rental market, and Pacific Northwest distribution position make it a genuinely strong scratch and dent market. Browse our <a href="/">directory of 728+ verified stores across 51 states</a> to find dealers near you.</p>`,
+
   "floor-model-appliances-worth-buying": `<p>You&rsquo;re browsing the appliance section at a big-box store and you notice a tag on one of the display models: &ldquo;Floor Model &mdash; 25% Off.&rdquo; The refrigerator looks fine. The price is noticeably lower. But something makes you hesitate. Is a floor model appliance actually a good deal, or are you buying someone else&rsquo;s problem?</p>
 <p>The short answer is that floor models can be a smart purchase &mdash; but they&rsquo;re a different proposition than buying scratch and dent or new-in-box. Here&rsquo;s what you need to know to decide whether a floor model is right for you.</p>
 
