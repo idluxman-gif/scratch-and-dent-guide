@@ -7,6 +7,9 @@ import PageNav from '@/components/PageNav';
 
 const { listing, domain, displayName, icon } = siteConfig;
 
+// Top 20 states by store count — FAQ schema applied only to these
+const FAQ_STATES = new Set(['GA','FL','NY','AL','CA','NJ','MO','LA','TX','AZ','MI','KY','OH','MA','WI','AR','UT','NE','CT','ND']);
+
 export function generateStaticParams() {
   const states = [...new Set(stores.map(s => s.s))];
   return states.map(s => ({ state: getStateSlug(s) }));
@@ -50,9 +53,57 @@ export default function StatePage({ params }) {
     })),
   };
 
+  const faqJsonLd = FAQ_STATES.has(stateCode) ? {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": `Where can I find scratch and dent appliance stores in ${stateName}?`,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": `There are ${totalStores} verified scratch and dent appliance stores in ${stateName}. Browse our directory to find locations near you across ${cityEntries.length} cities.`
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How much can I save at scratch and dent appliance stores?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Scratch and dent appliance stores typically offer savings of 30–70% off retail prices. Appliances may have minor cosmetic imperfections like small dents or scratches but are otherwise fully functional with manufacturer warranties."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What appliances do scratch and dent stores carry?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Scratch and dent stores carry refrigerators, washers, dryers, dishwashers, ranges, and ovens from top brands like Samsung, LG, Whirlpool, GE, and Bosch at deeply discounted prices."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": `Do scratch and dent stores in ${stateName} offer warranties?`,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": `Many scratch and dent stores in ${stateName} offer manufacturer warranties or store warranties on their appliances. Always confirm warranty coverage with the individual store before purchasing.`
+        }
+      },
+      {
+        "@type": "Question",
+        "name": `Do scratch and dent stores in ${stateName} offer delivery and installation?`,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": `Many scratch and dent appliance stores in ${stateName} offer local delivery and installation services. Contact individual stores to confirm availability and pricing in your area.`
+        }
+      }
+    ]
+  } : null;
+
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      {faqJsonLd && <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }} />}
       <div style={{ fontFamily: "'DM Sans', system-ui, sans-serif", background: '#F9FAFB', minHeight: '100vh' }}>
         <PageNav />
 
