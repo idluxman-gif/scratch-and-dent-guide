@@ -54,11 +54,16 @@ export default function sitemap() {
     });
   }
 
-  // City pages
+  // City pages — only include cities with 3+ stores (thin pages are noindexed)
+  const cityCounts = {};
+  for (const store of stores) {
+    const key = `${store.s}-${store.c}`;
+    cityCounts[key] = (cityCounts[key] || 0) + 1;
+  }
   const cityCombos = new Set();
   for (const store of stores) {
     const key = `${store.s}-${store.c}`;
-    if (!cityCombos.has(key)) {
+    if (!cityCombos.has(key) && cityCounts[key] >= 3) {
       cityCombos.add(key);
       routes.push({
         url: `${baseUrl}/stores/${getStateSlug(store.s)}/${getCitySlug(store.c)}`,

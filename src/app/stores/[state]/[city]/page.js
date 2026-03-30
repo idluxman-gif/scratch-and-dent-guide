@@ -27,9 +27,11 @@ export function generateMetadata({ params }) {
   const cityStores = stores.filter(s => s.s === stateCode && getCitySlug(s.c) === params.city);
   if (cityStores.length === 0) return {};
   const cityName = cityStores[0].c;
+  const isThin = cityStores.length < 3;
   return {
     title: `${listing.categoryLabel} ${listing.plural} in ${cityName}, ${stateName} (${cityStores.length} ${listing.plural})`,
     description: `Find ${cityStores.length} ${listing.categoryLabel.toLowerCase()} ${listing.plural} in ${cityName}, ${stateName}. ${listing.metaSavings}`,
+    ...(isThin && { robots: { index: false, follow: true } }),
     alternates: {
       canonical: `/${siteConfig.listingsRoute}/${params.state}/${params.city}`,
     },
