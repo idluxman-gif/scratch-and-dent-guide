@@ -2,6 +2,8 @@
 import { useState, useRef, useMemo } from "react";
 import Link from "next/link";
 import { MapPin, Phone, Search } from "lucide-react";
+import AdUnit from "@/components/AdUnit";
+import { siteConfig } from "@/config/site";
 import { stores as D, getStorePath, getStatePath, getCityPath, stateNames, getStateSlug } from "@/data/stores";
 
 const S = D.map(d=>({id:d.i,name:d.n,city:d.c,state:d.s,address:d.a,phone:d.p,website:d.w,rating:d.r,reviews:d.v,price:d.pr}));
@@ -107,6 +109,8 @@ return(<div style={{minHeight:"100vh",background:"#F9FAFB",fontFamily:"'DM Sans'
 {[{n:S.length+"+",l:"Stores"},{n:AS.length,l:"States"},{n:"30-70%",l:"Savings"},{n:"4.6",l:"Avg Rating"}].map(x=><div key={x.l} style={{textAlign:"center"}}><div style={{fontSize:16,fontWeight:800,color:"#0F172A"}}>{x.n}</div><div style={{fontSize:10,color:"#94A3B8"}}>{x.l}</div></div>)}
 </div></div>
 
+<AdUnit client={siteConfig.analytics.adsenseClient} slot={siteConfig.analytics.adSlots?.homepageBelowHero} style={{maxWidth:1060,margin:"0 auto",padding:"8px 16px"}}/>
+
 <div ref={rr} style={{maxWidth:1060,margin:"0 auto",padding:"20px 16px"}}>
 <div style={{background:"#fff",borderRadius:10,border:"1px solid #E5E7EB",padding:"10px 12px",marginBottom:14,display:"flex",flexWrap:"wrap",alignItems:"center",gap:6}}>
 <span style={{fontSize:12,fontWeight:700,color:"#0F172A"}}>Filter:</span>
@@ -128,6 +132,8 @@ return(<div style={{minHeight:"100vh",background:"#F9FAFB",fontFamily:"'DM Sans'
 <div style={{display:"grid",gridTemplateColumns:"repeat(auto-fit,minmax(180px,1fr))",gap:14}}>
 {[["🔍","Search","Find stores near you"],["📊","Compare","Filter by price & rating"],["💰","Save","30-70% off retail prices"]].map(([e,t,d],i)=><div key={i} style={{padding:18,background:"#F9FAFB",borderRadius:12}}><div style={{fontSize:24,marginBottom:6}}>{e}</div><h3 style={{fontSize:13,fontWeight:700,color:"#0F172A",margin:"0 0 3px"}}>{t}</h3><p style={{fontSize:11,color:"#64748B",margin:0}}>{d}</p></div>)}
 </div></div></div>
+
+<AdUnit client={siteConfig.analytics.adsenseClient} slot={siteConfig.analytics.adSlots?.homepageBelowListings} style={{maxWidth:780,margin:"0 auto",padding:"8px 20px"}}/>
 
 <div style={{padding:"36px 20px",background:"#F9FAFB"}}>
 <div style={{maxWidth:780,margin:"0 auto"}}>

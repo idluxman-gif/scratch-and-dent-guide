@@ -35,6 +35,10 @@ export const siteConfig = {
   analytics: {
     ga4Id: "G-97K1EQN5XQ",
     adsenseClient: "ca-pub-6583010255692976",
+    adSlots: {
+      homepageBelowHero: "2125476820",
+      homepageBelowListings: "3751652756",
+    },
   },
 
   // ── Listing copy ───────────────────────────────────────────────────────────
