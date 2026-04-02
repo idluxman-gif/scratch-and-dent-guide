@@ -4,6 +4,7 @@ import { stores, stateNames, findStateCode, getStateSlug, getCitySlug, getStoreP
 import { notFound } from 'next/navigation';
 import { siteConfig } from '@/config/site';
 import PageNav from '@/components/PageNav';
+import { cityEditorial } from '@/data/cityEditorial';
 
 const { listing, domain, displayName, icon } = siteConfig;
 
@@ -85,6 +86,17 @@ export default function CityPage({ params }) {
           <p style={{ color: '#666', fontSize: 16, margin: '0 0 32px' }}>
             {cityStores.length} verified {cityStores.length === 1 ? listing.singular : listing.plural}. {listing.metaSavings}
           </p>
+
+          {/* Editorial intro block */}
+          {cityEditorial[`${stateCode}-${cityName}`] && (
+            <div style={{ background: '#fff', border: '1px solid #E2E8F0', borderRadius: 12, padding: '24px 28px', marginBottom: 36 }}>
+              {cityEditorial[`${stateCode}-${cityName}`].split('\n\n').map((paragraph, i) => (
+                <p key={i} style={{ fontSize: 15, lineHeight: 1.75, color: '#374151', margin: '0 0 16px' }}
+                  dangerouslySetInnerHTML={{ __html: paragraph }}
+                />
+              ))}
+            </div>
+          )}
 
           {/* Store cards */}
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))', gap: 16, marginBottom: 40 }}>

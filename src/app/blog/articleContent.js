@@ -837,4 +837,192 @@ export const articleContent = {
 <h2>Find Deals on Both</h2>
 <p>Whether you&rsquo;re shopping for floor models at your local big-box store or seeking deeper savings at a scratch and dent dealer, the inspection process matters. Our <a href="/blog/are-scratch-and-dent-appliances-worth-it">guide to whether scratch and dent is worth it</a> covers the fundamentals for any discount appliance purchase.</p>
 <p>And if you want the 30-70% savings that scratch and dent offers, browse our <a href="/">directory of 728+ verified stores across all 50 states</a> to find dealers in your area.</p>`,
+
+  "best-scratch-and-dent-stores-san-jose": `<p>San Jose sits at the heart of Silicon Valley, where the combination of high incomes, premium housing stock, and a culture of smart spending creates a surprisingly active scratch and dent appliance market. Buyers throughout Santa Clara County &mdash; from downtown San Jose to Cupertino, Sunnyvale, Santa Clara, and Milpitas &mdash; can find savings of 30&ndash;70% on premium brands like Bosch, Miele, LG, Samsung, and Sub-Zero at local and regional S&amp;D dealers.</p>
+
+<h2>Why San Jose Is a Strong Market for Appliance Deals</h2>
+<p>The Bay Area&rsquo;s famously high cost of living actually makes scratch and dent appliances more attractive here than almost anywhere else in the country. When a refrigerator retails for $2,500 to $4,000, a 40&ndash;60% discount represents real money &mdash; even for tech workers who aren&rsquo;t hurting for cash. Scratch and dent shopping fits naturally into the Bay Area&rsquo;s &ldquo;optimize for value&rdquo; mindset.</p>
+<p><strong>Dense housing stock and renovation activity.</strong> San Jose&rsquo;s tight housing inventory means buyers frequently renovate existing homes rather than build new, generating strong demand for discounted appliances among homeowners upgrading kitchens on a budget. The city&rsquo;s condo and townhome market also drives demand for counter-depth refrigerators and compact, European-style appliances.</p>
+<p><strong>Proximity to Bay Area distribution infrastructure.</strong> The Santa Clara Valley&rsquo;s position within the broader Bay Area logistics network means S&amp;D dealers in the region access the same distribution pipeline as San Francisco and Oakland dealers. Inventory is refreshed regularly, particularly after major retail sale events.</p>
+
+<h2>What to Look For in San Jose</h2>
+<p>San Jose buyers tend to favor energy-efficient models, partly for environmental reasons and partly because California&rsquo;s electricity rates make efficiency meaningful in utility bills. When evaluating scratch and dent refrigerators and dishwashers, check the ENERGY STAR certification &mdash; cosmetic damage doesn&rsquo;t affect efficiency ratings, so you can get the same utility savings at a fraction of the price.</p>
+<p>California&rsquo;s strict appliance efficiency standards mean you&rsquo;re unlikely to encounter non-compliant units at reputable dealers, but it&rsquo;s worth confirming that any older clearance models meet current California Energy Commission standards before purchasing.</p>
+
+<h2>Tips for Shopping S&amp;D in San Jose</h2>
+<p>San Jose&rsquo;s S&amp;D dealers range from standalone warehouses to regional chains serving multiple Bay Area counties. The best selection tends to be in commercial and industrial corridors off major routes like Highway 101, Highway 880, and Capitol Expressway. Call ahead to confirm inventory on the specific appliance type you need &mdash; Silicon Valley buyers tend to have precise preferences, and confirming availability saves the trip.</p>
+<p>The best shopping windows are January through March (post-holiday returns peak) and late summer when retailers clear prior-year inventory. For all verified scratch and dent stores throughout California, browse our <a href="/stores/california">California stores directory</a>.</p>`,
+
+  "best-scratch-and-dent-stores-jacksonville": `<p>Jacksonville is Florida&rsquo;s largest city by area and one of its fastest-growing by population, creating a robust scratch and dent appliance market that serves a wide geography from the urban core to suburban communities in St. Johns, Clay, Nassau, and Duval counties. Local and regional dealers throughout the Jacksonville metro offer savings of 30&ndash;65% on major brands including Samsung, LG, GE, Whirlpool, and Maytag on refrigerators, ranges, washers, dryers, and dishwashers.</p>
+
+<h2>Why Jacksonville Is Worth Knowing for Appliance Deals</h2>
+<p>Jacksonville&rsquo;s combination of strong military presence (Naval Station Mayport, NAS Jacksonville, Blount Island Command), active civilian housing market, and large suburban footprint creates consistently high demand for affordable appliances year-round. Military families relocating every few years are among the most active buyers in the S&amp;D market anywhere they&rsquo;re stationed &mdash; Jacksonville is no exception.</p>
+<p><strong>New construction and suburban growth.</strong> The greater Jacksonville area has seen substantial new construction in St. Johns County (the fastest-growing county in Florida by population for several recent years), driving demand for appliances in new homes at all price points. Buyers furnishing new construction often turn to scratch and dent to offset rising costs elsewhere.</p>
+<p><strong>Florida&rsquo;s climate considerations.</strong> Like all Florida markets, Jacksonville buyers should pay special attention to refrigerator door seals and compressor quality when purchasing S&amp;D units. The combination of heat and humidity puts heavy load on cooling appliances &mdash; a unit with compromised seals will cost you in electricity and repairs. Reputable dealers will demonstrate that units are running before sale.</p>
+
+<h2>Shopping the Jacksonville Metro</h2>
+<p>Jacksonville&rsquo;s sprawl means dealers are spread across the metro rather than concentrated in one area. The I-95 corridor, I-295 beltway, and US-1 south toward St. Augustine all have dealer clusters worth exploring. Call ahead to confirm what&rsquo;s in stock, as inventory rotates quickly in active Florida markets.</p>
+<p>The best times to shop are January through March and late summer. Investors buying for the Jacksonville rental market &mdash; which has grown substantially as Florida in-migration continues &mdash; should ask about package pricing on multiple units. For all verified scratch and dent stores in Florida, visit our <a href="/stores/florida">Florida stores directory</a>.</p>`,
+
+  "best-scratch-and-dent-stores-fort-worth": `<p>Fort Worth is the western anchor of the Dallas-Fort Worth Metroplex, one of the most active scratch and dent appliance markets in the entire country. Buyers throughout Tarrant County &mdash; from Fort Worth proper to Arlington, Grand Prairie, Mansfield, Keller, and Southlake &mdash; access the same deep DFW S&amp;D dealer network that makes this metro consistently one of the best places in America to buy discounted appliances. Savings of 30&ndash;70% on major brands like Samsung, LG, Whirlpool, Maytag, and GE are standard across the region.</p>
+
+<h2>The Fort Worth Advantage in DFW&rsquo;s S&amp;D Market</h2>
+<p>Fort Worth shoppers often find better deals than their Dallas counterparts precisely because fewer buyers think to look west. The I-35W corridor running through Fort Worth, Haltom City, and Hurst connects buyers to a string of warehouse-style dealers that serve the west side of the metro with the same inventory as the more crowded east Dallas market &mdash; at prices that reflect less competition for individual units.</p>
+<p><strong>Arlington and mid-cities dealers.</strong> The communities between Fort Worth and Dallas &mdash; Arlington, Grand Prairie, Irving, and the mid-cities along Highway 183 &mdash; have some of the strongest S&amp;D dealer concentrations in all of DFW. These areas blend convenient freeway access with the logistics advantages of being near the geographic center of the metroplex.</p>
+<p><strong>New construction fuels supply.</strong> Tarrant County communities like Mansfield, Fort Worth&rsquo;s northwest suburbs (Saginaw, Lake Worth), and the Alliance corridor in northern Fort Worth are among Texas&rsquo;s most active new construction zones. The resulting appliance demand keeps dealers stocked year-round with fresh inventory from DFW&rsquo;s major distribution infrastructure.</p>
+
+<h2>Tips for Fort Worth S&amp;D Shoppers</h2>
+<p>Shop mid-week to avoid weekend crowds. Bring measurements &mdash; Tarrant County homes range from 1920s craftsman bungalows near TCU to sprawling new-builds in Westover Hills and Alliance, and kitchen dimensions vary widely. Texas warranty law follows standard UCC rules; most new S&amp;D appliances carry their full manufacturer warranty, which you should always verify in writing.</p>
+<p>Investors in the Fort Worth rental market should ask dealers about package pricing on multiple units &mdash; the DFW investor market is one of the most active in Texas, and most dealers are accustomed to bulk purchases. Browse all verified DFW-area and Texas-wide stores at our <a href="/stores/texas">Texas stores directory</a>.</p>`,
+
+  "best-scratch-and-dent-stores-charlotte": `<p>Charlotte has emerged as one of the Southeast&rsquo;s fastest-growing cities, and its scratch and dent appliance market has grown with it. With a booming financial sector, steady migration from the Northeast and Midwest, and a sprawling ring of growing suburbs in Mecklenburg, Cabarrus, Union, and Gaston counties, Charlotte buyers consistently find savings of 30&ndash;65% on major brand appliances at local and regional S&amp;D dealers.</p>
+
+<h2>Why Charlotte&rsquo;s Market Is Strong</h2>
+<p>Charlotte&rsquo;s population has grown by hundreds of thousands over the past decade, with no sign of slowing. The resulting housing demand &mdash; both new construction in fast-growing suburbs like Ballantyne, Steele Creek, and Concord, and renovation of older homes in Dilworth, NoDa, and South End &mdash; creates consistent, year-round demand for affordable appliances across all buyer segments.</p>
+<p><strong>First-time homebuyer market.</strong> Charlotte attracts a significant share of young professionals and first-time homebuyers, who tend to be particularly cost-conscious when furnishing their first home. Scratch and dent&rsquo;s 30&ndash;65% savings on refrigerators, washers, and dryers resonates strongly with this demographic, making Charlotte one of the more price-competitive S&amp;D markets in the Carolinas.</p>
+<p><strong>Investor and rental market.</strong> Charlotte has one of the most active investor-grade real estate markets in the Southeast, with landlords frequently furnishing multiple units simultaneously. Most Charlotte-area dealers are accustomed to multi-unit purchases and will negotiate package pricing &mdash; ask specifically if you&rsquo;re outfitting more than one property.</p>
+
+<h2>Shopping the Charlotte Metro</h2>
+<p>Charlotte&rsquo;s dealers are distributed across the metro&rsquo;s major corridors &mdash; I-85, I-77, and South Boulevard are good axes to follow when researching locations. The South Charlotte suburbs (Ballantyne, Pineville, Matthews) and north Charlotte communities near Concord and Harrisburg both have dealer options worth exploring.</p>
+<p>North Carolina&rsquo;s consumer protection standards mean buyers have good standing on warranty and return policy disputes. Always verify that your scratch and dent unit carries its manufacturer warranty before purchasing. The best shopping windows are late winter (January&ndash;March) and late summer. For all verified stores in North Carolina, visit our <a href="/stores/north-carolina">North Carolina stores directory</a>.</p>`,
+
+  "best-scratch-and-dent-stores-indianapolis": `<p>Indianapolis is one of the Midwest&rsquo;s most underrated scratch and dent appliance markets &mdash; a large, affordable city with a strong homeownership culture, steady population growth, and excellent access to national appliance distribution networks. Buyers throughout Marion County and surrounding communities in Hamilton, Hendricks, Johnson, and Boone counties routinely find savings of 30&ndash;65% on major brands including Whirlpool, Maytag, Samsung, LG, and GE at local and regional S&amp;D dealers.</p>
+
+<h2>What Makes Indianapolis a Strong S&amp;D Market</h2>
+<p>Indianapolis sits at the crossroads of I-65, I-70, and I-74, making it one of the most strategically located distribution hubs in the Midwest. Major national retailers and appliance manufacturers route significant freight through the Indianapolis area, which means local dealers have access to consistent supplies of open-box returns, delivery-damaged units, and overstock from across the region.</p>
+<p><strong>Affordable housing = more appliance buyers.</strong> Indianapolis has some of the most affordable housing in any major US metro, which drives unusually high homeownership rates. Homeowners &mdash; as opposed to renters &mdash; are the primary buyers of major appliances, and Indianapolis&rsquo;s large homeowner base creates strong, stable demand for the S&amp;D market year-round.</p>
+<p><strong>Growing suburbs.</strong> Communities like Fishers, Carmel, Westfield, and Noblesville in Hamilton County are among Indiana&rsquo;s fastest-growing, adding thousands of new homes annually. These buyers &mdash; often upgrading from renting or relocating from other states &mdash; are natural scratch and dent shoppers looking to furnish new homes at a discount.</p>
+
+<h2>Tips for Indianapolis S&amp;D Shoppers</h2>
+<p>Indianapolis S&amp;D dealers are concentrated along major commercial corridors, particularly on the east side near I-70 and on the north side near I-465. Call ahead to confirm inventory &mdash; a quick call on a specific appliance type saves time and trip. The best shopping windows are January through March (post-holiday returns) and late summer when retailers clear prior-year models.</p>
+<p>Indiana buyers should note that most new scratch and dent appliances carry their full manufacturer warranty. Always verify terms in writing before purchasing. Investors buying for Indianapolis&rsquo;s active rental market should ask about package pricing. Browse all verified Indiana stores at our <a href="/stores/indiana">Indiana stores directory</a>.</p>`,
+
+  "how-much-do-scratch-and-dent-appliances-cost": `<p>Scratch and dent appliances can save you hundreds &mdash; or even thousands &mdash; of dollars compared to buying new. But how much exactly should you expect to pay? The answer depends on the appliance type, the brand, the severity of the cosmetic damage, and where you&rsquo;re buying. Here&rsquo;s a realistic breakdown of what scratch and dent appliances cost in 2026.</p>
+
+<h2>Typical Savings: 30&ndash;70% Off Retail</h2>
+<p>The most commonly cited range for scratch and dent savings is <strong>30&ndash;70% off the original retail price</strong>. In practice, where you land in that range depends on a few factors.</p>
+<p><strong>Type of damage.</strong> A small dent on the back or side of a refrigerator (where it will never be seen) often commands less of a discount than damage on a visible panel. A highly cosmetically imperfect unit may be priced at 60&ndash;70% off; a lightly scratched or floor-model unit might sell at 25&ndash;35% off.</p>
+<p><strong>Brand.</strong> Premium brands (Bosch, Miele, Sub-Zero, Wolf) carry higher retail prices, so the absolute dollar savings on a 40% discount is larger &mdash; even if the percentage isn&rsquo;t remarkable. Budget brands (Amana, Hotpoint) have lower base prices, meaning smaller absolute savings even at similar percentage discounts.</p>
+<p><strong>Dealer type.</strong> Dedicated S&amp;D dealers tend to offer deeper discounts than big-box retailer clearance sections. Independent warehouse dealers with high volume are often the lowest-price option.</p>
+
+<h2>Price Ranges by Appliance Type</h2>
+<p><strong>Refrigerators.</strong> New refrigerators range from around $800 for basic top-freezer models to $5,000+ for large French door or counter-depth premium units. Scratch and dent refrigerators typically sell in the $400&ndash;$2,500 range, with most mid-range deals falling between $600 and $1,200.</p>
+<p><strong>Washers and dryers.</strong> New front-load washers range from $700 to $1,500+. Scratch and dent washers typically run $350&ndash;$900, with dryers in the $300&ndash;$700 range. Pairs (washer + dryer) often have better negotiating room than individual units.</p>
+<p><strong>Ranges and ovens.</strong> New freestanding ranges run $600&ndash;$2,000 for standard models, $3,000+ for professional-style units. S&amp;D ranges typically sell for $350&ndash;$1,200, depending on brand and damage.</p>
+<p><strong>Dishwashers.</strong> Entry-level dishwashers retail around $400&ndash;$600; premium models run $1,200&ndash;$2,500. Scratch and dent dishwashers typically sell for $200&ndash;$800.</p>
+
+<h2>What Drives Prices Up or Down</h2>
+<p>Beyond the appliance type, a few factors consistently affect how much you&rsquo;ll pay at an S&amp;D store.</p>
+<p><strong>Inventory freshness.</strong> Units that arrived recently are often priced higher. The longer a unit sits, the more dealers are motivated to discount further to clear floor space.</p>
+<p><strong>Season.</strong> Post-holiday (January&ndash;February) and late summer (August&ndash;September) are typically when S&amp;D inventory is highest and prices most competitive. Holiday sales cycles flood the secondary market with returns and delivery-damaged units.</p>
+<p><strong>Your negotiation.</strong> Unlike big-box retail, independent S&amp;D dealers often have real pricing flexibility. Buying multiple units or paying cash may get you additional discount beyond the sticker price.</p>
+
+<h2>Is It Worth It?</h2>
+<p>For most buyers, yes &mdash; especially on refrigerators, washers, and dryers, where the savings are largest in absolute dollar terms. A $1,000 scratch and dent refrigerator that would cost $1,800 new is a strong deal if the damage is cosmetic only and the unit carries its manufacturer warranty.</p>
+<p>Read our full guide on <a href="/blog/are-scratch-and-dent-appliances-worth-it">whether scratch and dent appliances are worth buying</a> for a complete assessment. And to find verified dealers in your area, browse our <a href="/">directory of 728+ scratch and dent stores across all 50 states</a>.</p>`,
+
+  "best-scratch-and-dent-appliances-to-buy": `<p>Not all scratch and dent appliances offer the same value. Some categories are almost always worth buying used or discounted; others carry more risk. Here&rsquo;s a practical guide to which scratch and dent appliances are the best investments &mdash; and which ones to approach with more caution.</p>
+
+<h2>Best Scratch and Dent Appliances to Buy</h2>
+
+<h3>Refrigerators (Excellent Value)</h3>
+<p>Refrigerators are the single best category for scratch and dent shopping. They&rsquo;re expensive new ($800&ndash;$5,000 for most households), cosmetic damage is almost always superficial (a dent on a side panel affects nothing functional), and the compressor-driven mechanics are reliable even on lightly handled units. Savings of 30&ndash;60% on a refrigerator represent real money &mdash; often $400&ndash;$1,200 in absolute terms.</p>
+<p>What to check: door seals (run your hand along the closed door for cold air leaks), compressor sound (even, quiet humming is good; irregular cycling or loud noise warrants caution), and ice maker function if applicable. For a full inspection protocol, see our <a href="/blog/how-to-inspect-scratch-and-dent-appliances">appliance inspection checklist</a>.</p>
+
+<h3>Washers and Dryers (Excellent Value)</h3>
+<p>Front-load washer-dryer sets are expensive new and among the best deals in scratch and dent. A cosmetic scratch on a door panel or a small dent on a side panel doesn&rsquo;t affect wash performance at all. Most S&amp;D washers and dryers carry their full manufacturer warranty. Buying a matching set often allows negotiation on the pair price beyond what you&rsquo;d save on individual units.</p>
+
+<h3>Dishwashers (Good Value)</h3>
+<p>Dishwashers are compact, mechanically simple, and expensive enough new that even modest S&amp;D discounts represent meaningful savings. The most important inspection point is the door latch and seal &mdash; a compromised seal will cause leaks, which is a problem. Most other damage is cosmetic. Ask for a demo cycle before purchasing.</p>
+
+<h3>Ranges and Ovens (Good Value)</h3>
+<p>Freestanding ranges often sustain damage during shipping and delivery that has no bearing on cooking performance. Check that all burners ignite (gas) or heat evenly (electric/induction) and that the oven door seals and heats to temperature. Professional-style ranges at S&amp;D prices can represent exceptional value for buyers who want premium cooking equipment without the full premium price tag.</p>
+
+<h2>Appliances to Approach More Carefully</h2>
+
+<h3>Over-the-Range Microwaves</h3>
+<p>Over-the-range microwaves are relatively inexpensive new, so the absolute savings on S&amp;D are smaller. More importantly, the combination ventilation-microwave unit means a problem with one function affects the whole appliance. Buy here only if the price is compelling and you&rsquo;ve tested both functions.</p>
+
+<h3>Wine Coolers and Beverage Centers</h3>
+<p>Specialty cooling appliances have more failure-prone compressor systems than standard refrigerators. Inspect very carefully and ensure the unit is running at temperature before purchasing.</p>
+
+<h2>The Universal Rule</h2>
+<p>Always confirm that the unit carries its full manufacturer warranty before purchasing. Most new scratch and dent appliances do &mdash; Samsung, LG, Whirlpool, Bosch, and GE all honor their standard warranties on cosmetically imperfect units sold through authorized channels. Getting this confirmed in writing protects you regardless of what category you&rsquo;re buying.</p>
+<p>To find verified scratch and dent dealers near you, browse our <a href="/">directory of 728+ stores across all 50 states</a>.</p>`,
+
+  "scratch-and-dent-appliance-warranty-guide": `<p>One of the biggest questions buyers have about scratch and dent appliances is whether they come with a warranty. The short answer is: yes, most do &mdash; and understanding exactly how the warranty works can make the difference between a great deal and an expensive mistake.</p>
+
+<h2>Do Scratch and Dent Appliances Come With a Warranty?</h2>
+<p>Most scratch and dent appliances are <em>new units with cosmetic imperfections</em> &mdash; not used, refurbished, or previously owned. Because they were never sold at retail, most carry their original manufacturer&rsquo;s warranty in full. This is one of the most important distinctions between scratch and dent and used or refurbished appliances.</p>
+<p><strong>Major brand warranties on new S&amp;D units:</strong></p>
+<ul>
+<li><strong>Samsung:</strong> 1-year parts and labor standard; some models have longer coverage on specific components (compressors, linear inverters)</li>
+<li><strong>LG:</strong> 1-year parts and labor; 10-year compressor warranty on qualifying refrigerators</li>
+<li><strong>Whirlpool / Maytag / KitchenAid:</strong> 1-year limited warranty standard</li>
+<li><strong>GE / GE Profile:</strong> 1-year full warranty</li>
+<li><strong>Bosch:</strong> 1-year parts and labor on most appliances</li>
+</ul>
+
+<h2>What You Need to Verify Before Buying</h2>
+<p>Not every S&amp;D unit automatically comes with a full warranty. There are a few scenarios that can affect coverage.</p>
+<p><strong>Authorized vs. unauthorized dealers.</strong> Manufacturer warranties are honored when the unit is sold through authorized channels. Reputable scratch and dent dealers are authorized to sell these units and pass through the warranty. Unverified dealers may not be. Always ask whether the unit is covered by the full manufacturer warranty, and which service network handles warranty claims.</p>
+<p><strong>Warranty start date.</strong> Some warranties start from the manufacturer date, not the date you purchase. If a refrigerator sat in a warehouse for 8 months before you bought it, your effective warranty may be shorter. Ask the dealer when the warranty clock started and get it in writing.</p>
+<p><strong>Damage vs. defects.</strong> Manufacturer warranties cover defects in materials and workmanship &mdash; they don&rsquo;t cover cosmetic damage. The dent you bought is your responsibility. But if the compressor fails within the warranty period for reasons unrelated to physical damage, that&rsquo;s covered under a standard warranty.</p>
+
+<h2>Extended Warranties on Scratch and Dent</h2>
+<p>Some scratch and dent dealers offer their own store warranties or can connect you with third-party extended warranty providers. These vary considerably in coverage and value. For most brand-new S&amp;D units from major manufacturers, the included manufacturer warranty is sufficient. Third-party warranties can be worth considering on refrigerators (where compressor failures are the key risk) if the price is reasonable.</p>
+
+<h2>Getting It in Writing</h2>
+<p>Whatever warranty terms apply, get them documented on your receipt or a separate warranty card. This makes any future warranty service claim straightforward. If a dealer can&rsquo;t or won&rsquo;t specify the warranty terms in writing, that&rsquo;s a reason for caution.</p>
+<p>For help finding authorized scratch and dent dealers with clear warranty practices, browse our <a href="/">directory of 728+ verified stores</a>. For more on what to look for before you buy, read our <a href="/blog/how-to-inspect-scratch-and-dent-appliances">appliance inspection checklist</a>.</p>`,
+
+  "scratch-and-dent-refrigerator-buying-guide": `<p>Scratch and dent refrigerators are one of the best appliance deals available to consumers today &mdash; and refrigerators are the single best category to shop in the scratch and dent market. This guide covers everything you need to know about buying a scratch and dent refrigerator in 2026: typical savings, what to inspect, which brands to prioritize, and how to find the best deals near you.</p>
+
+<h2>Why Refrigerators Are the Top S&amp;D Category</h2>
+<p><strong>High retail price creates big absolute savings.</strong> Mid-range refrigerators retail for $1,200&ndash;$2,500. Premium French door and counter-depth models run $2,500&ndash;$5,000. A 40&ndash;60% S&amp;D discount on those price points means $500&ndash;$2,000 in savings &mdash; more than almost any other appliance category.</p>
+<p><strong>Cosmetic damage rarely matters.</strong> A dent on the back, side, or even front panel of a refrigerator has zero effect on how it functions. Most refrigerators are against walls or in kitchen layouts where a side dent is never visible. The damage that earns the S&amp;D label rarely affects the appliance&rsquo;s actual performance.</p>
+<p><strong>Warranties are typically intact.</strong> Most S&amp;D refrigerators are new units with manufacturer warranties, including LG&rsquo;s 10-year inverter compressor warranty and Samsung&rsquo;s extended coverage on key components.</p>
+
+<h2>What to Inspect Before Buying</h2>
+<p><strong>Door seals.</strong> Close the door on a piece of paper; if you can pull it out easily, the seal is compromised. A weak refrigerator seal causes constant compressor cycling, higher energy bills, and food spoilage.</p>
+<p><strong>Compressor.</strong> Listen for consistent, quiet operation. Irregular cycling, loud grinding, or intermittent sounds can indicate compressor issues. Ask the dealer to demonstrate the unit running for at least 10&ndash;15 minutes.</p>
+<p><strong>Interior dimensions.</strong> Measure your kitchen opening before shopping and bring those measurements. Standard vs. counter-depth vs. built-in configurations vary significantly, and the best deal in the world doesn&rsquo;t help if the unit doesn&rsquo;t fit.</p>
+<p><strong>Ice maker and water dispenser.</strong> If the unit has these, test them. Ice maker mechanisms are a common failure point, and if they&rsquo;re not working at the S&amp;D store, you should factor in repair costs or negotiate accordingly.</p>
+<p><strong>Cosmetic damage location.</strong> Where is the dent or scratch? If it&rsquo;s on the back panel, invisible once installed &mdash; pay less than they&rsquo;re asking. If it&rsquo;s on the front French door, decide whether it bothers you. The location of the damage should affect the price you&rsquo;re willing to pay.</p>
+
+<h2>Best Brands for S&amp;D Refrigerators</h2>
+<p><strong>LG</strong> is widely considered the best value in mid-to-premium refrigerators and has excellent S&amp;D availability. Their InstaView Door-in-Door and French door models are particularly popular. LG&rsquo;s 10-year compressor warranty offers meaningful protection.</p>
+<p><strong>Samsung</strong> is excellent on features (Family Hub, FlexZone, convertible crisper drawers) and reliable on quality. Strong S&amp;D availability across the country.</p>
+<p><strong>Whirlpool and Maytag</strong> are the most widely available brands in S&amp;D stores nationwide. Solid reliability, good parts availability, reasonable price points for the category.</p>
+<p><strong>Bosch</strong> counter-depth refrigerators are among the best available at any price and appear regularly in S&amp;D inventory at significant discounts from their $2,500&ndash;$4,000 retail prices.</p>
+
+<h2>Where to Find S&amp;D Refrigerators</h2>
+<p>Browse our <a href="/">directory of 728+ verified scratch and dent stores across all 50 states</a> to find dealers near you. For more on buying scratch and dent appliances in general, see our <a href="/blog/are-scratch-and-dent-appliances-worth-it">complete guide to whether S&amp;D is worth it</a>.</p>`,
+
+  "scratch-and-dent-washer-dryer-guide": `<p>Scratch and dent washers and dryers are among the most cost-effective appliances you can buy in the discount market. Front-load washer-dryer sets can run $2,000&ndash;$3,500 new for quality models; at S&amp;D prices, that same equipment regularly sells for $900&ndash;$1,800. Here&rsquo;s what you need to know before buying a scratch and dent washer or dryer.</p>
+
+<h2>Why Washers and Dryers Are Excellent S&amp;D Buys</h2>
+<p><strong>High retail prices, significant absolute savings.</strong> Quality front-load washers retail for $800&ndash;$1,500 individually. A set at 40% off saves $650&ndash;$1,200 compared to buying new &mdash; meaningful money in any household budget.</p>
+<p><strong>Cosmetic damage is almost always irrelevant.</strong> A dent on the side or back panel of a washer or dryer is hidden by cabinetry, the adjacent appliance, or simply by placement in a laundry room. Most scratch and dent washers and dryers have damage that is never visible once installed.</p>
+<p><strong>Matching pairs.</strong> Buying a matching washer and dryer set creates negotiating leverage. Most S&amp;D dealers will offer better combined pricing on a pair than on two separate units, and buying a matched set saves you from mismatched aesthetics.</p>
+
+<h2>Washers: What to Inspect</h2>
+<p><strong>Drum seal.</strong> Open the door and inspect the rubber gasket ring around the drum opening. Tears, cracks, or deformation in the gasket lead to water leaks &mdash; a serious problem in a laundry room. This is the most important thing to check on any front-load washer.</p>
+<p><strong>Spin cycle.</strong> Ask the dealer to run the machine through at least a short wash-and-spin cycle. Vibration during spin is normal; severe shaking or loud grinding is not. Confirm the machine levels properly in the store.</p>
+<p><strong>Control panel and dispensers.</strong> Test all cycle selections and confirm the detergent, fabric softener, and bleach dispensers are intact. Cracked or missing dispenser trays are a minor but annoying repair.</p>
+<p><strong>Drain pump filter.</strong> Ask whether the drain pump filter has been cleaned. Clogged filters are a common source of odor and drainage problems in S&amp;D units that have been warehoused for a period.</p>
+
+<h2>Dryers: What to Inspect</h2>
+<p><strong>Drum and seal.</strong> Inspect the drum for any dents that could catch fabric, and check the door seal for integrity. A compromised dryer door seal reduces efficiency significantly.</p>
+<p><strong>Heat.</strong> Ask the dealer to run the dryer and confirm it&rsquo;s heating properly. Gas dryers should ignite consistently; electric dryers should heat evenly. Check that the vent connection point is intact and the right size for your installation.</p>
+<p><strong>Control panel.</strong> Test all cycle selections. Dryers are mechanically simpler than washers, so the control panel is the most likely failure point on any electronic model.</p>
+
+<h2>Best Brands for S&amp;D Washers and Dryers</h2>
+<p><strong>LG</strong> TurboWash front-load washers and dryers are among the most popular S&amp;D items in the country. Excellent reliability, consistent warranty coverage, and strong availability at S&amp;D dealers nationwide.</p>
+<p><strong>Samsung</strong> AddWash and front-load models appear regularly in S&amp;D inventory. Solid feature set and good reliability record.</p>
+<p><strong>Whirlpool and Maytag</strong> are the most widely available and easiest to service. Good value at the mid-range price point with consistent S&amp;D availability.</p>
+<p><strong>Speed Queen</strong> is worth specifically seeking out if you encounter it at S&amp;D prices. Legendary commercial-grade durability, typically retails high, and at S&amp;D discount represents exceptional value for buyers who want appliances that last 20+ years.</p>
+
+<h2>Find S&amp;D Washers and Dryers Near You</h2>
+<p>Browse our <a href="/">directory of 728+ verified scratch and dent stores</a> to find dealers in your area. For full inspection guidance on any appliance purchase, see our <a href="/blog/how-to-inspect-scratch-and-dent-appliances">step-by-step inspection checklist</a>.</p>`,
 };
