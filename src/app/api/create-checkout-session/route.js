@@ -1,7 +1,23 @@
 import { NextResponse } from 'next/server';
-import Stripe from 'stripe';
 
-const stripe = new Stripe(process.env.STRIPE_SECRET_KEY);
+/**
+ * Payoneer Checkout — create a hosted payment session.
+ *
+ * Docs: https://checkoutdocs.payoneer.com/docs/integrate-hosted-payment-page
+ * Auth: HTTP Basic (PAYONEER_MERCHANT_CODE:PAYONEER_PAYMENT_TOKEN)
+ * Endpoint: POST https://api.payoneer.com/api/lists
+ *
+ * We embed the shopId in the transactionId so the IPN handler can
+ * resolve which shop to activate without a separate KV lookup.
+ * Format: sad-{shopId}-{timestamp}
+ */
+
+const PAYONEER_API = process.env.PAYONEER_API_URL || 'https://api.payoneer.com';
+
+function payoneerAuthHeader() {
+  const credentials = `${process.env.PAYONEER_MERCHANT_CODE}:${process.env.PAYONEER_PAYMENT_TOKEN}`;
+  return `Basic ${Buffer.from(credentials).toString('base64')}`;
+}
 
 export async function POST(request) {
   try {
@@ -12,33 +28,67 @@ export async function POST(request) {
     }
 
     const origin = request.headers.get('origin') || 'https://www.scratchanddentguide.com';
+    const transactionId = `sad-${shopId}-${Date.now()}`;
 
-    const session = await stripe.checkout.sessions.create({
-      mode: 'subscription',
-      payment_method_types: ['card'],
-      line_items: [
+    const payload = {
+      transactionId,
+      country: 'US',
+      customer: {
+        email: '',
+        registration: { id: `shop-${shopId}` },
+      },
+      payment: {
+        amount: 29.00,
+        currency: 'USD',
+        reference: `Premium Listing — ${shopName}`,
+        longReference: {
+          essential: `Monthly premium listing on ScratchAndDentGuide.com for ${shopName}`,
+        },
+      },
+      callback: {
+        returnUrl: `${origin}/upgrade/success?shopId=${shopId}&shopName=${encodeURIComponent(shopName)}`,
+        cancelUrl: `${origin}/upgrade?shopId=${shopId}&shopName=${encodeURIComponent(shopName)}&cancelled=1`,
+        notificationUrl: `${origin}/api/webhook/payoneer`,
+      },
+      products: [
         {
-          price: process.env.STRIPE_PRICE_ID,
+          code: 'premium_listing',
+          name: 'Premium Listing — ScratchAndDentGuide.com',
           quantity: 1,
+          currency: 'USD',
+          amount: 29.00,
         },
       ],
-      subscription_data: {
-        metadata: {
-          shopId: String(shopId),
-          shopName,
-          site: 'sad',
-        },
+      style: {
+        hostedVersion: 'v4',
       },
-      metadata: {
-        shopId: String(shopId),
-        shopName,
-        site: 'sad',
+    };
+
+    const res = await fetch(`${PAYONEER_API}/api/lists`, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/vnd.optile.payment.enterprise-v1-extensible+json',
+        'Accept': 'application/vnd.optile.payment.enterprise-v1-extensible+json',
+        'Authorization': payoneerAuthHeader(),
       },
-      success_url: `${origin}/upgrade/success?shopId=${shopId}&shopName=${encodeURIComponent(shopName)}&session_id={CHECKOUT_SESSION_ID}`,
-      cancel_url: `${origin}/upgrade?shopId=${shopId}&shopName=${encodeURIComponent(shopName)}&cancelled=1`,
+      body: JSON.stringify(payload),
     });
 
-    return NextResponse.json({ url: session.url });
+    const data = await res.json();
+
+    if (!res.ok) {
+      console.error('[checkout] Payoneer error:', data);
+      return NextResponse.json({ error: data.resultInfo || 'Failed to create payment session' }, { status: 500 });
+    }
+
+    // Payoneer returns redirect URL in links.redirect
+    const redirectUrl = data.links?.redirect || data.redirect;
+    if (!redirectUrl) {
+      console.error('[checkout] No redirect URL in Payoneer response:', data);
+      return NextResponse.json({ error: 'No redirect URL returned' }, { status: 500 });
+    }
+
+    return NextResponse.json({ url: redirectUrl });
   } catch (error) {
     console.error('[checkout] error:', error);
     return NextResponse.json({ error: 'Failed to create checkout session' }, { status: 500 });
