@@ -5,6 +5,9 @@ import { notFound } from 'next/navigation';
 import QuoteForm from './QuoteForm';
 import { siteConfig } from '@/config/site';
 import PageNav from '@/components/PageNav';
+import { isPremium } from '@/lib/premium';
+
+export const dynamic = 'force-dynamic';
 
 const { listing, domain, displayName, icon } = siteConfig;
 
@@ -34,13 +37,15 @@ export function generateMetadata({ params }) {
   };
 }
 
-export default function StorePage({ params }) {
+export default async function StorePage({ params }) {
   const store = stores.find(s =>
     getStateSlug(s.s) === params.state &&
     getCitySlug(s.c) === params.city &&
     getStoreSlug(s) === params.slug
   );
   if (!store) notFound();
+
+  const premium = await isPremium(store.i);
 
   const stateName = stateNames[store.s];
   const mapsUrl = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(store.n + ' ' + store.a)}`;
@@ -101,7 +106,17 @@ export default function StorePage({ params }) {
 
           {/* Store Hero */}
           <div style={{ background: '#fff', borderRadius: 16, overflow: 'hidden', border: '1px solid #e5e7eb', marginBottom: 24 }}>
-            <div style={{ background: 'linear-gradient(135deg, #0F172A 0%, #0F172A 100%)', padding: '32px 24px', color: '#fff' }}>
+            <div style={{ background: premium ? 'linear-gradient(135deg, #064E3B 0%, #065F46 50%, #047857 100%)' : 'linear-gradient(135deg, #0F172A 0%, #0F172A 100%)', padding: '32px 24px', color: '#fff' }}>
+              {premium && (
+                <div style={{ display: 'flex', gap: 8, marginBottom: 12, flexWrap: 'wrap' }}>
+                  <span style={{ background: '#F59E0B', color: '#0F172A', padding: '3px 12px', borderRadius: 20, fontSize: 12, fontWeight: 800, letterSpacing: 0.5 }}>
+                    ⭐ PREMIUM LISTING
+                  </span>
+                  <span style={{ background: 'rgba(255,255,255,0.15)', color: '#fff', padding: '3px 12px', borderRadius: 20, fontSize: 12, fontWeight: 700 }}>
+                    ✓ Verified Business
+                  </span>
+                </div>
+              )}
               <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', flexWrap: 'wrap', gap: 16 }}>
                 <div>
                   <h1 style={{ fontSize: 28, fontWeight: 800, margin: '0 0 8px' }}>{store.n}</h1>
@@ -189,6 +204,25 @@ export default function StorePage({ params }) {
 
               {/* Quote Form */}
               <QuoteForm storeName={store.n} storeCity={store.c} storeState={stateName} />
+
+              {/* Premium upgrade CTA — only shown for non-premium listings */}
+              {!premium && (
+                <div style={{ marginTop: 24, background: 'linear-gradient(135deg, #F0FDF4 0%, #DCFCE7 100%)', border: '1px solid #86EFAC', borderRadius: 12, padding: 20, textAlign: 'center' }}>
+                  <div style={{ fontSize: 20, marginBottom: 6 }}>⭐</div>
+                  <h3 style={{ fontSize: 16, fontWeight: 700, color: '#064E3B', margin: '0 0 6px' }}>
+                    Own {store.n}?
+                  </h3>
+                  <p style={{ fontSize: 13, color: '#166534', margin: '0 0 14px', lineHeight: 1.5 }}>
+                    Upgrade to a Premium Listing — get a featured badge, top placement, and more leads for just $29/month.
+                  </p>
+                  <Link
+                    href={`/upgrade?shopId=${store.i}&shopName=${encodeURIComponent(store.n)}`}
+                    style={{ display: 'inline-block', background: '#10B981', color: '#fff', padding: '10px 22px', borderRadius: 8, textDecoration: 'none', fontWeight: 700, fontSize: 14 }}
+                  >
+                    Upgrade this listing →
+                  </Link>
+                </div>
+              )}
             </div>
           </div>
 
