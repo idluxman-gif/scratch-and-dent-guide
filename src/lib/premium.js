@@ -1,11 +1,13 @@
 /**
  * Premium shop state helpers using Vercel KV.
  * Key pattern: premium:sad:{shopId}
- * Value: { subscriptionId, email, since, expiresAt, active }
+ * Value: { subscriptionId, email, ownerEmail, since, expiresAt, active }
  *
- * Payoneer doesn't have native recurring billing, so we track a 32-day
+ * Gumroad doesn't have native recurring billing tracking on our end, so we track a 32-day
  * expiry. When the listing expires the upgrade CTA reappears so the owner
  * can renew for another month.
+ *
+ * ownerEmail: optional store owner email used to forward leads directly.
  */
 
 const KV_PREFIX = 'premium:sad';
@@ -28,13 +30,14 @@ export async function isPremium(shopId) {
   }
 }
 
-export async function setPremium(shopId, { paymentId, email }) {
+export async function setPremium(shopId, { paymentId, email, ownerEmail }) {
   const store = await getKv();
   const since = new Date().toISOString();
   const expiresAt = new Date(Date.now() + PREMIUM_DAYS * 24 * 60 * 60 * 1000).toISOString();
   await store.set(`${KV_PREFIX}:${shopId}`, {
     paymentId,
     email,
+    ...(ownerEmail ? { ownerEmail } : {}),
     since,
     expiresAt,
     active: true,

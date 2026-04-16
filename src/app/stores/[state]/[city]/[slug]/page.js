@@ -2,12 +2,17 @@ import Link from 'next/link';
 import { MapPin, Phone, Globe } from 'lucide-react';
 import { stores, stateNames, findStateCode, getStateSlug, getCitySlug, getStoreSlug, getStorePath, getStatePath, getCityPath } from '@/data/stores';
 import { notFound } from 'next/navigation';
+import dynamicImport from 'next/dynamic';
 import QuoteForm from './QuoteForm';
 import { siteConfig } from '@/config/site';
 import PageNav from '@/components/PageNav';
 import { isPremium } from '@/lib/premium';
 
 export const dynamic = 'force-dynamic';
+
+const PremiumLeadForm = dynamicImport(() => import('./PremiumLeadForm'), { ssr: false });
+const PhoneLink = dynamicImport(() => import('@/components/TrackingLinks').then(m => m.PhoneLink), { ssr: false });
+const OutboundLink = dynamicImport(() => import('@/components/TrackingLinks').then(m => m.OutboundLink), { ssr: false });
 
 const { listing, domain, displayName, icon } = siteConfig;
 
@@ -50,6 +55,7 @@ export default async function StorePage({ params }) {
   const stateName = stateNames[store.s];
   const mapsUrl = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(store.n + ' ' + store.a)}`;
   const otherStores = stores.filter(s => s.c === store.c && s.s === store.s && s.i !== store.i).slice(0, 4);
+  const phoneHref = store.p ? `tel:${store.p.replace(/[^+\d]/g, '')}` : null;
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -105,12 +111,12 @@ export default async function StorePage({ params }) {
           </div>
 
           {/* Store Hero */}
-          <div style={{ background: '#fff', borderRadius: 16, overflow: 'hidden', border: '1px solid #e5e7eb', marginBottom: 24 }}>
+          <div style={{ background: '#fff', borderRadius: 16, overflow: 'hidden', border: premium ? '2px solid #10B981' : '1px solid #e5e7eb', marginBottom: 24 }}>
             <div style={{ background: premium ? 'linear-gradient(135deg, #064E3B 0%, #065F46 50%, #047857 100%)' : 'linear-gradient(135deg, #0F172A 0%, #0F172A 100%)', padding: '32px 24px', color: '#fff' }}>
               {premium && (
                 <div style={{ display: 'flex', gap: 8, marginBottom: 12, flexWrap: 'wrap' }}>
-                  <span style={{ background: '#F59E0B', color: '#0F172A', padding: '3px 12px', borderRadius: 20, fontSize: 12, fontWeight: 800, letterSpacing: 0.5 }}>
-                    ⭐ PREMIUM LISTING
+                  <span style={{ background: '#10B981', color: '#fff', padding: '3px 12px', borderRadius: 20, fontSize: 12, fontWeight: 800, letterSpacing: 0.5 }}>
+                    ★ FEATURED LISTING — Premium Partner
                   </span>
                   <span style={{ background: 'rgba(255,255,255,0.15)', color: '#fff', padding: '3px 12px', borderRadius: 20, fontSize: 12, fontWeight: 700 }}>
                     ✓ Verified Business
@@ -137,16 +143,16 @@ export default async function StorePage({ params }) {
               {/* CTAs */}
               <div style={{ display: 'flex', gap: 12, marginBottom: 24, flexWrap: 'wrap' }}>
                 {store.p && (
-                  <a href={`tel:${store.p.replace(/[^+\d]/g, '')}`}
+                  <PhoneLink href={phoneHref}
                     style={{ background: '#10B981', color: '#fff', padding: '12px 24px', borderRadius: 8, textDecoration: 'none', fontWeight: 700, fontSize: 15, display: 'inline-flex', alignItems: 'center', gap: 8 }}>
                     <Phone size={16} color="#fff"/> Call Now: {store.p}
-                  </a>
+                  </PhoneLink>
                 )}
                 {store.w && (
-                  <a href={store.w} target="_blank" rel="noopener noreferrer"
+                  <OutboundLink href={store.w}
                     style={{ background: '#0F172A', color: '#fff', padding: '12px 24px', borderRadius: 8, textDecoration: 'none', fontWeight: 700, fontSize: 15, display: 'inline-flex', alignItems: 'center', gap: 8 }}>
                     <Globe size={16} color="#fff"/> Visit Website
-                  </a>
+                  </OutboundLink>
                 )}
                 <a href={mapsUrl} target="_blank" rel="noopener noreferrer"
                   style={{ background: '#F59E0B', color: '#fff', padding: '12px 24px', borderRadius: 8, textDecoration: 'none', fontWeight: 700, fontSize: 15, display: 'inline-flex', alignItems: 'center', gap: 8 }}>
@@ -202,8 +208,17 @@ export default async function StorePage({ params }) {
                 </p>
               </div>
 
-              {/* Quote Form */}
-              <QuoteForm storeName={store.n} storeCity={store.c} storeState={stateName} />
+              {/* Lead form: PremiumLeadForm for premium stores, QuoteForm for all others */}
+              {premium ? (
+                <PremiumLeadForm
+                  storeName={store.n}
+                  storeCity={store.c}
+                  storeState={stateName}
+                  storeSlug={store.i}
+                />
+              ) : (
+                <QuoteForm storeName={store.n} storeCity={store.c} storeState={stateName} />
+              )}
 
               {/* Premium upgrade CTA — only shown for non-premium listings */}
               {!premium && (

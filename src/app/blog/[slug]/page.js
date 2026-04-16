@@ -83,6 +83,33 @@ export default function BlogArticlePage({ params }) {
           dangerouslySetInnerHTML={{ __html: content }}
         />
 
+        {/* Author Byline */}
+        {article.author && (
+          <div style={{
+            marginTop: 32, padding: "16px 20px", background: "#F8FAFC",
+            borderRadius: 10, border: "1px solid #E2E8F0", display: "flex",
+            alignItems: "center", gap: 14,
+          }}>
+            <div style={{
+              width: 44, height: 44, borderRadius: "50%",
+              background: "linear-gradient(135deg,#0F172A,#334155)",
+              display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0,
+            }}>
+              <span style={{ fontSize: 16, fontWeight: 800, color: "#fff" }}>
+                {article.author.name.split(" ").map(w => w[0]).join("")}
+              </span>
+            </div>
+            <div>
+              <div style={{ fontSize: 13, fontWeight: 700, color: "#0F172A" }}>
+                {article.author.name}
+              </div>
+              <div style={{ fontSize: 12, color: "#64748B", lineHeight: 1.5, marginTop: 2 }}>
+                {article.author.bio}
+              </div>
+            </div>
+          </div>
+        )}
+
         {/* CTA Section */}
         <div style={{
           marginTop: 40, padding: 28, background: "linear-gradient(135deg,#0F172A,#1E293B)",
